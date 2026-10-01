@@ -40,3 +40,7 @@ Representation B determinacy (native/B_DETERMINACY.md): R0 = (D, 14 pairings) do
 (1257 realizations at one twisted link; verified minimal pair differing in 3 relations = a sign flip on an
 alternating triangle). Lemma P: sign freedom of a row given its support = alternating closed trails. Refinement
 collapses to "unsigned layer + phases" = the known sign-rigidity question. B does not compress.
+
+## Update 2026-10-01 (Z[C2]-freeness redundancy test)
+Freeness of Lambda_3, Lambda_-4 is equivalent, given the separate systems, to Q = N (mod 2) (R19), the parity half of
+(C5); checked on BvLS with a relaxed counterexample (c17). No new information; route stopped. EX: OPEN.

@@ -283,3 +283,9 @@ n2 = G (mod 2) with G (number of 3x3 grids) not fixed by the parameters: leverag
     not a law.
 Status: new representations; no compatibility law and no exclusion yet. Duplication: (a) known; (b)-(c) not found
 (closest: c2_experimental note 29 s.3, faces G_a at inner vertices).
+
+---------------------------------------------------------------------------------------------------
+## R19. Z[C2]-freeness = Q = N (mod 2): no information beyond Theorem C  [PROVED HERE; CHECKED c17] -> Z_C2_FREENESS_REDUNDANCY.md
+Odd sector A_- = [[-I, R^T],[R, -N]], even sector B_+ = [[0, 2*1^T, 0],[1, I, M^T],[0, M, Q]] (orbit coordinates).
+Given the separate systems, Lambda_3, Lambda_-4 free over Z[C2] <=> [[I, M^T],[M, Q]] = A_- (mod 2) <=> Q = N (mod 2).
+Explicit integral glue maps: 77E_3, 63E_-4 (even side) and A_- + 4, 3 - A_- (odd side). Implied by (C5). Structural.
