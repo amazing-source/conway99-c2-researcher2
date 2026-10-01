@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-30",
+  "purpose": "Researcher 2 staged starting packet, not a theorem proof or new audit",
+  "source_records": [
+    {
+      "destination": "reference/PROOF_CURRENT.md",
+      "source_archive": "conway_c2_theorem_handoff_2026_09_30.zip",
+      "member": "conway_c2_theorem_handoff_2026_09_30/PROOF_CURRENT.md",
+      "sha256": "30ab6f52d5d3819f70dd64c9a8162c6d659271018cc0c04ce4b658bd6c6c78d7",
+      "copied_byte_for_byte": true
+    },
+    {
+      "destination": "reference/GRAPH_RECONSTRUCTION.md",
+      "source_archive": "conway_c2_theorem_handoff_2026_09_30.zip",
+      "member": "conway_c2_theorem_handoff_2026_09_30/GRAPH_RECONSTRUCTION.md",
+      "sha256": "53f9b149584c0c144ac650c24f18483dd3563470f9108de961c0bd56591216d8",
+      "copied_byte_for_byte": true
+    },
+    {
+      "destination": "code/verify_witness.py",
+      "source_archive": "conway_c2_theorem_handoff_2026_09_30.zip",
+      "member": "conway_c2_theorem_handoff_2026_09_30/code/verify_witness.py",
+      "sha256": "e36cf66b61baf750d1f3012fac0c4eac577577794d2db2604c325830bb2b7b62",
+      "copied_byte_for_byte": true
+    },
+    {
+      "destination": "data/INPUT_FORMAT.md",
+      "source_archive": "conway_c2_theorem_handoff_2026_09_30.zip",
+      "member": "conway_c2_theorem_handoff_2026_09_30/data/INPUT_FORMAT.md",
+      "sha256": "a6ba96e323005b7b7bbbdee33cb0daabc3de6bea1c1e97258b55a61234a8e0ae",
+      "copied_byte_for_byte": true
+    },
+    {
+      "destination": "data/positive_control_m2.json",
+      "source_archive": "conway_c2_theorem_handoff_2026_09_30.zip",
+      "member": "conway_c2_theorem_handoff_2026_09_30/checks/positive_control_m2.json",
+      "sha256": "3a2f5ded4d02f6408d2012f150a29f761c2ffd41521d649fad3334a21b6538c3",
+      "copied_byte_for_byte": true
+    },
+    {
+      "destination": "provenance/REVIEWER_AUDIT_EXCERPT.txt",
+      "source_filename": "Texte coll\u00e9(5).txt",
+      "source_sha256": "f7c4a0c47e5cb986e33e50759d3f4ed15c5d5ead3a401d1bee9fdb25d7d0df80",
+      "extraction": "prefix preceding the first \"\u273b Worked for 35m 15s\" marker; excludes later strategy conversation",
+      "sha256": "b32065bed50d2ddea1f11df699d1dc4e0fabb65f95061a60a90e6205ed9abc50"
+    }
+  ],
+  "files": [
+    {
+      "path": "AUDIT_STATUS.md",
+      "bytes": 2498,
+      "sha256": "9589e625c79356a2411cd265759c6970854c7d2fc3e2fe27f35a315afa7004c8"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 1875,
+      "sha256": "b5140304d14d187191e3062ce62bb82ba2a2e3d227b9df0f7ea954f95cfa8170"
+    },
+    {
+      "path": "DUPLICATION_NOTES.md",
+      "bytes": 2365,
+      "sha256": "140206565ed0c50ad06da6aef6d43eb991dff9169b974c7bae26986b1db5eecc"
+    },
+    {
+      "path": "MODEL.md",
+      "bytes": 4304,
+      "sha256": "085551fd490e378f1ffda04e9816034d63897dbada61e101202275fa9f34da37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3837,
+      "sha256": "1497ea6084931feadedd7c6e777532b0ffa381684f9480ffd70b1b08aca92e3a"
+    },
+    {
+      "path": "TASK.md",
+      "bytes": 5543,
+      "sha256": "980a305366a93571b3d69850acc816fb37fe690960741866458a44905b30aa7d"
+    },
+    {
+      "path": "code/verify_witness.py",
+      "bytes": 7487,
+      "sha256": "e36cf66b61baf750d1f3012fac0c4eac577577794d2db2604c325830bb2b7b62"
+    },
+    {
+      "path": "data/INPUT_FORMAT.md",
+      "bytes": 1128,
+      "sha256": "a6ba96e323005b7b7bbbdee33cb0daabc3de6bea1c1e97258b55a61234a8e0ae"
+    },
+    {
+      "path": "data/positive_control_m2.json",
+      "bytes": 1162,
+      "sha256": "3a2f5ded4d02f6408d2012f150a29f761c2ffd41521d649fad3334a21b6538c3"
+    },
+    {
+      "path": "provenance/REVIEWER_AUDIT_EXCERPT.txt",
+      "bytes": 6728,
+      "sha256": "b32065bed50d2ddea1f11df699d1dc4e0fabb65f95061a60a90e6205ed9abc50"
+    },
+    {
+      "path": "reference/ERRATA.md",
+      "bytes": 841,
+      "sha256": "7e57669c2e8531f2e55c182e6c70a715e69c52238be50682f858c31472b7dec9"
+    },
+    {
+      "path": "reference/GRAPH_RECONSTRUCTION.md",
+      "bytes": 10124,
+      "sha256": "53f9b149584c0c144ac650c24f18483dd3563470f9108de961c0bd56591216d8"
+    },
+    {
+      "path": "reference/PROOF_CURRENT.md",
+      "bytes": 15676,
+      "sha256": "30ab6f52d5d3819f70dd64c9a8162c6d659271018cc0c04ce4b658bd6c6c78d7"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 6,
+      "sha256": "e09f656c130b9c08b2c5ab7187c891295e449ed77febea2a6ceee9cc98ccb0fc"
+    },
+    {
+      "path": "work/README.md",
+      "bytes": 156,
+      "sha256": "c2831dd836514b312d4c574767a82486a8cd0597105e2478202a8620a213f785"
+    }
+  ],
+  "not_included": "Actual independent reviewer files were not supplied; only the user-pasted report was available."
+}

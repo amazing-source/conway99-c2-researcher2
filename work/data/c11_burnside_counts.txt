@@ -1,0 +1,3 @@
+Paley(9) brute force: tr(A^5) = 900  c5 = 36  induced5 = 0
+Paley(9) formula    : {'tr5': 900, 'T': 6, 'E': 18, 'c5': 36, 'induced5': 0, 'induced4': 9}
+srg(99,14,1,2)      : {'tr5': 505890, 'T': 231, 'E': 693, 'c5': 41580, 'induced5': 33264, 'induced4': 2079}

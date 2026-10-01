@@ -1,0 +1,138 @@
+Lemma-H pass: 201387   survivors (H+G4+PI): 185028   classes: 132
+labelled survivors by |X|: 11:1260 12:12040 13:41265 14:59895 15:43554 16:19467 17:5985 18:1330 19:210 20:21 21:1
+|X|=11 labelled=  1260 degs=2233444  Y(type-2 cells): 12 13 14 16 23 24 27 35 45 67
+|X|=12 labelled=   630 degs=2233455  Y(type-2 cells): 12 13 14 15 23 24 25 34 67
+|X|=12 labelled=   840 degs=2223555  Y(type-2 cells): 12 13 14 15 23 24 26 34 37
+|X|=12 labelled=  1260 degs=2233455  Y(type-2 cells): 12 13 14 15 23 24 25 36 47
+|X|=12 labelled=   315 degs=2333355  Y(type-2 cells): 12 13 14 15 23 24 35 45 67
+|X|=12 labelled=  2520 degs=2234445  Y(type-2 cells): 12 13 14 15 23 24 26 37 56
+|X|=12 labelled=  2520 degs=2333445  Y(type-2 cells): 12 13 14 16 23 24 35 45 67
+|X|=12 labelled=   105 degs=0444444  Y(type-2 cells): 12 13 14 15 16 17 23 45 67
+|X|=12 labelled=  2520 degs=2334444  Y(type-2 cells): 12 13 14 16 23 25 37 45 67
+|X|=12 labelled=    70 degs=3333336  Y(type-2 cells): 13 14 15 23 24 25 36 46 56
+|X|=12 labelled=  1260 degs=3333444  Y(type-2 cells): 13 14 15 23 24 25 36 47 67
+|X|=13 labelled=   630 degs=2233466  Y(type-2 cells): 12 13 14 15 23 24 25 34
+|X|=13 labelled=  1260 degs=2233556  Y(type-2 cells): 12 13 14 15 23 24 26 34
+|X|=13 labelled=   420 degs=2333555  Y(type-2 cells): 12 13 14 15 23 24 34 67
+|X|=13 labelled=  1260 degs=2234456  Y(type-2 cells): 12 13 14 15 23 24 25 36
+|X|=13 labelled=   210 degs=2244455  Y(type-2 cells): 12 13 14 15 23 24 25 67
+|X|=13 labelled=  1260 degs=2334455  Y(type-2 cells): 12 13 14 15 23 24 35 67
+|X|=13 labelled=  1260 degs=2244446  Y(type-2 cells): 12 13 14 15 23 24 26 56
+|X|=13 labelled=  2520 degs=2234555  Y(type-2 cells): 12 13 14 15 23 24 26 37
+|X|=13 labelled=  2520 degs=2333456  Y(type-2 cells): 12 13 14 16 23 24 35 45
+|X|=13 labelled=  2520 degs=2333555  Y(type-2 cells): 12 13 14 15 23 24 36 47
+|X|=13 labelled=  5040 degs=2334455  Y(type-2 cells): 12 13 14 15 23 24 36 57
+|X|=13 labelled=   630 degs=3333455  Y(type-2 cells): 12 13 14 23 24 35 45 67
+|X|=13 labelled=   315 degs=0444455  Y(type-2 cells): 12 13 14 15 16 17 23 45
+|X|=13 labelled=  5040 degs=2334455  Y(type-2 cells): 12 13 14 16 23 25 37 45
+|X|=13 labelled=  5040 degs=2344445  Y(type-2 cells): 12 13 14 16 23 25 45 67
+|X|=13 labelled=  2520 degs=3334445  Y(type-2 cells): 12 13 14 23 25 36 45 67
+|X|=13 labelled=   630 degs=2444444  Y(type-2 cells): 12 13 15 16 24 34 57 67
+|X|=13 labelled=   630 degs=3333446  Y(type-2 cells): 13 14 15 23 24 25 36 46
+|X|=13 labelled=  1260 degs=3333455  Y(type-2 cells): 13 14 15 23 24 25 36 47
+|X|=13 labelled=  1260 degs=3334445  Y(type-2 cells): 13 14 15 23 24 25 36 67
+|X|=13 labelled=  2520 degs=3334445  Y(type-2 cells): 13 14 15 23 24 26 37 56
+|X|=13 labelled=  2520 degs=3344444  Y(type-2 cells): 12 13 15 24 26 34 57 67
+|X|=14 labelled=   420 degs=2333566  Y(type-2 cells): 12 13 14 15 23 24 34
+|X|=14 labelled=   105 degs=3333556  Y(type-2 cells): 12 13 14 23 24 34 56
+|X|=14 labelled=   210 degs=2244466  Y(type-2 cells): 12 13 14 15 23 24 25
+|X|=14 labelled=  1260 degs=2334466  Y(type-2 cells): 12 13 14 15 23 24 35
+|X|=14 labelled=  1260 degs=2244556  Y(type-2 cells): 12 13 14 15 23 24 26
+|X|=14 labelled=  5040 degs=2334556  Y(type-2 cells): 12 13 14 15 23 24 36
+|X|=14 labelled=  2520 degs=2344456  Y(type-2 cells): 12 13 14 15 23 24 56
+|X|=14 labelled=  1260 degs=2344555  Y(type-2 cells): 12 13 14 15 23 24 67
+|X|=14 labelled=   630 degs=3333466  Y(type-2 cells): 12 13 14 23 24 35 45
+|X|=14 labelled=  1260 degs=3333556  Y(type-2 cells): 12 13 14 23 24 35 46
+|X|=14 labelled=  1260 degs=3334555  Y(type-2 cells): 12 13 14 23 24 35 67
+|X|=14 labelled=   315 degs=2444455  Y(type-2 cells): 12 13 14 15 23 45 67
+|X|=14 labelled=   105 degs=0445555  Y(type-2 cells): 12 13 14 15 16 17 23
+|X|=14 labelled=  5040 degs=2344456  Y(type-2 cells): 12 13 14 16 23 25 45
+|X|=14 labelled=  1260 degs=2335555  Y(type-2 cells): 12 13 14 15 23 26 37
+|X|=14 labelled=  5040 degs=2344555  Y(type-2 cells): 12 13 14 15 23 26 47
+|X|=14 labelled=  1260 degs=2444455  Y(type-2 cells): 12 13 14 15 23 46 57
+|X|=14 labelled=  2520 degs=3334456  Y(type-2 cells): 12 13 14 23 25 36 45
+|X|=14 labelled=  1260 degs=3344455  Y(type-2 cells): 12 13 14 23 25 45 67
+|X|=14 labelled=  2520 degs=3334555  Y(type-2 cells): 12 13 14 23 25 36 47
+|X|=14 labelled=  2520 degs=3344455  Y(type-2 cells): 12 13 14 23 25 46 57
+|X|=14 labelled=   840 degs=2344456  Y(type-2 cells): 13 14 15 16 23 24 25
+|X|=14 labelled=  2520 degs=2444455  Y(type-2 cells): 12 13 15 16 24 34 57
+|X|=14 labelled=  1260 degs=3334456  Y(type-2 cells): 13 14 15 23 24 25 36
+|X|=14 labelled=   210 degs=3344455  Y(type-2 cells): 13 14 15 23 24 25 67
+|X|=14 labelled=  1260 degs=3344446  Y(type-2 cells): 12 13 15 24 26 34 56
+|X|=14 labelled=  2520 degs=3334555  Y(type-2 cells): 12 13 15 24 26 34 37
+|X|=14 labelled=  5040 degs=3344455  Y(type-2 cells): 12 13 15 24 26 34 57
+|X|=14 labelled=  1260 degs=3344446  Y(type-2 cells): 13 14 15 23 24 26 56
+|X|=14 labelled=  2520 degs=3444445  Y(type-2 cells): 12 13 15 24 34 56 67
+|X|=14 labelled=  2520 degs=3344455  Y(type-2 cells): 12 13 16 24 27 35 45
+|X|=14 labelled=  2520 degs=3444445  Y(type-2 cells): 12 13 16 24 35 45 67
+|X|=14 labelled=   360 degs=4444444  Y(type-2 cells): 12 13 24 35 46 57 67
+|X|=15 labelled=    35 degs=3333666  Y(type-2 cells): 12 13 14 23 24 34
+|X|=15 labelled=  1260 degs=2344566  Y(type-2 cells): 12 13 14 15 23 24
+|X|=15 labelled=  1260 degs=3334566  Y(type-2 cells): 12 13 14 23 24 35
+|X|=15 labelled=   630 degs=3344556  Y(type-2 cells): 12 13 14 23 24 56
+|X|=15 labelled=   315 degs=2444466  Y(type-2 cells): 12 13 14 15 23 45
+|X|=15 labelled=  2520 degs=2345556  Y(type-2 cells): 12 13 14 15 23 26
+|X|=15 labelled=  2520 degs=2444556  Y(type-2 cells): 12 13 14 15 23 46
+|X|=15 labelled=   630 degs=2445555  Y(type-2 cells): 12 13 14 15 23 67
+|X|=15 labelled=  1260 degs=3344466  Y(type-2 cells): 12 13 14 23 25 45
+|X|=15 labelled=   840 degs=3335556  Y(type-2 cells): 12 13 14 23 25 36
+|X|=15 labelled=  5040 degs=3344556  Y(type-2 cells): 12 13 14 23 25 46
+|X|=15 labelled=  1260 degs=3345555  Y(type-2 cells): 12 13 14 23 25 67
+|X|=15 labelled=  1260 degs=3444555  Y(type-2 cells): 12 13 14 23 45 67
+|X|=15 labelled=     7 degs=0555555  Y(type-2 cells): 12 13 14 15 16 17
+|X|=15 labelled=  1260 degs=2444556  Y(type-2 cells): 12 13 15 16 24 34
+|X|=15 labelled=  1260 degs=2445555  Y(type-2 cells): 12 13 14 15 26 37
+|X|=15 labelled=   210 degs=3344466  Y(type-2 cells): 13 14 15 23 24 25
+|X|=15 labelled=  2520 degs=3344556  Y(type-2 cells): 12 13 15 24 26 34
+|X|=15 labelled=  2520 degs=3444456  Y(type-2 cells): 12 13 15 24 34 56
+|X|=15 labelled=  1260 degs=3344556  Y(type-2 cells): 13 14 15 23 24 26
+|X|=15 labelled=  1260 degs=3444555  Y(type-2 cells): 12 13 15 24 34 67
+|X|=15 labelled=  2520 degs=3345555  Y(type-2 cells): 12 13 14 25 26 37
+|X|=15 labelled=  2520 degs=3444456  Y(type-2 cells): 12 13 16 24 35 45
+|X|=15 labelled=   840 degs=3444555  Y(type-2 cells): 12 13 14 25 36 47
+|X|=15 labelled=  5040 degs=3444555  Y(type-2 cells): 12 13 15 24 36 47
+|X|=15 labelled=   315 degs=4444455  Y(type-2 cells): 12 13 24 34 56 57
+|X|=15 labelled=   252 degs=4444455  Y(type-2 cells): 12 13 24 35 45 67
+|X|=15 labelled=   420 degs=4444446  Y(type-2 cells): 12 13 24 35 46 56
+|X|=15 labelled=  2520 degs=4444455  Y(type-2 cells): 12 13 24 35 46 57
+|X|=16 labelled=   210 degs=3344666  Y(type-2 cells): 12 13 14 23 24
+|X|=16 labelled=   630 degs=2445566  Y(type-2 cells): 12 13 14 15 23
+|X|=16 labelled=  1260 degs=3345566  Y(type-2 cells): 12 13 14 23 25
+|X|=16 labelled=  1260 degs=3444566  Y(type-2 cells): 12 13 14 23 45
+|X|=16 labelled=  1260 degs=3445556  Y(type-2 cells): 12 13 14 23 56
+|X|=16 labelled=   105 degs=4445555  Y(type-2 cells): 12 13 23 45 67
+|X|=16 labelled=   840 degs=2455556  Y(type-2 cells): 12 13 14 15 26
+|X|=16 labelled=   105 degs=2555555  Y(type-2 cells): 12 13 14 15 67
+|X|=16 labelled=  1260 degs=3444566  Y(type-2 cells): 12 13 15 24 34
+|X|=16 labelled=   630 degs=3355556  Y(type-2 cells): 12 13 14 25 26
+|X|=16 labelled=  2520 degs=3445556  Y(type-2 cells): 12 13 14 25 36
+|X|=16 labelled=  2520 degs=3445556  Y(type-2 cells): 12 14 15 23 36
+|X|=16 labelled=  1260 degs=3455555  Y(type-2 cells): 12 13 14 25 67
+|X|=16 labelled=   315 degs=4444556  Y(type-2 cells): 12 13 24 34 56
+|X|=16 labelled=   252 degs=4444466  Y(type-2 cells): 12 13 24 35 45
+|X|=16 labelled=  2520 degs=4444556  Y(type-2 cells): 12 13 24 35 46
+|X|=16 labelled=  1260 degs=4445555  Y(type-2 cells): 12 13 24 35 67
+|X|=16 labelled=  1260 degs=4445555  Y(type-2 cells): 12 14 25 36 37
+|X|=17 labelled=   420 degs=3445666  Y(type-2 cells): 12 13 14 23
+|X|=17 labelled=   210 degs=4445566  Y(type-2 cells): 12 13 23 45
+|X|=17 labelled=   105 degs=2555566  Y(type-2 cells): 12 13 14 15
+|X|=17 labelled=  1260 degs=3455566  Y(type-2 cells): 12 13 14 25
+|X|=17 labelled=   420 degs=3555556  Y(type-2 cells): 12 13 14 56
+|X|=17 labelled=   105 degs=4444666  Y(type-2 cells): 12 13 24 34
+|X|=17 labelled=  1260 degs=4445566  Y(type-2 cells): 12 13 24 35
+|X|=17 labelled=  1260 degs=4455556  Y(type-2 cells): 12 13 24 56
+|X|=17 labelled=   630 degs=4455556  Y(type-2 cells): 13 14 25 26
+|X|=17 labelled=   315 degs=4555555  Y(type-2 cells): 12 13 45 67
+|X|=18 labelled=    35 degs=4446666  Y(type-2 cells): 12 13 23
+|X|=18 labelled=   140 degs=3555666  Y(type-2 cells): 12 13 14
+|X|=18 labelled=   420 degs=4455666  Y(type-2 cells): 12 13 24
+|X|=18 labelled=   630 degs=4555566  Y(type-2 cells): 12 13 45
+|X|=18 labelled=   105 degs=5555556  Y(type-2 cells): 12 34 56
+|X|=19 labelled=   105 degs=4556666  Y(type-2 cells): 12 13
+|X|=19 labelled=   105 degs=5555666  Y(type-2 cells): 12 34
+|X|=20 labelled=    21 degs=5566666  Y(type-2 cells): 12
+|X|=21 labelled=     1 degs=6666666  Y(type-2 cells):
+
+real	0m20.024s
+user	0m0.015s
+sys	0m0.046s

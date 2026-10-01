@@ -1,0 +1,17 @@
+== R0 (bare row solution from the selection note): case (iii); 1 violations
+    (Bd) E+ ((4, 5, 1),(1, 5, 1)): 1+1+0+1+0 > 2
+== K1 (attempt, case (iii)): case (iii); 1 violations
+    (Bd) E- ((4, 5, 1),(4, 5, -1)): 0+1+0+1+1 > 2
+== K2 (attempt, case (iii)): case (iii); 1 violations
+    (Bd) E+ ((1, 3, 1),(1, 7, -1)): 0+1+0+1+1 > 2
+== K3 (attempt, case (iii)): case (iii); 0 violations
+== R0 (bare row solution from the selection note): 2 lift-level violations
+    ('E', (4, 5, 1), 1) vs ('E', (1, 5, 1), 1): 2 common > 1
+    ('E', (4, 5, 1), -1) vs ('E', (1, 5, 1), -1): 2 common > 1
+== K1 (attempt, case (iii)): 2 lift-level violations
+    ('E', (4, 5, 1), 1) vs ('E', (4, 5, -1), -1): 3 common > 2
+    ('E', (4, 5, 1), -1) vs ('E', (4, 5, -1), 1): 3 common > 2
+== K2 (attempt, case (iii)): 2 lift-level violations
+    ('E', (1, 3, 1), 1) vs ('E', (1, 7, -1), 1): 3 common > 2
+    ('E', (1, 3, 1), -1) vs ('E', (1, 7, -1), -1): 3 common > 2
+== K3 (attempt, case (iii)): 0 lift-level violations

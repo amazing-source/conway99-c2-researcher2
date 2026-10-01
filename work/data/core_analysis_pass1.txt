@@ -1,0 +1,109 @@
+distinct cores (up to S7): 73
+  |type2|=4 |non2|=0 type2=['12', '13', '23', '45'] non2=[] from classes [115]
+  |type2|=4 |non2|=0 type2=['12', '13', '24', '34'] non2=[] from classes [119]
+  |type2|=5 |non2|=0 type2=['12', '13', '14', '15', '67'] non2=[] from classes [103]
+  |type2|=5 |non2|=0 type2=['12', '13', '14', '23', '24'] non2=[] from classes [96]
+  |type2|=5 |non2|=0 type2=['12', '13', '14', '23', '45'] non2=[] from classes [99]
+  |type2|=5 |non2|=0 type2=['12', '13', '14', '23', '56'] non2=[] from classes [100]
+  |type2|=5 |non2|=0 type2=['12', '13', '14', '25', '35'] non2=[] from classes [104]
+  |type2|=5 |non2|=0 type2=['12', '13', '23', '45', '67'] non2=[] from classes [101]
+  |type2|=5 |non2|=0 type2=['12', '13', '24', '34', '56'] non2=[] from classes [109]
+  |type2|=5 |non2|=0 type2=['12', '13', '24', '35', '45'] non2=[] from classes [110]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '15', '16', '23'] non2=[] from classes [46]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '15', '23', '24'] non2=[] from classes [4, 5, 6, 12, 13, 14]...
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '15', '23', '45'] non2=[] from classes [71]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '15', '23', '46'] non2=[] from classes [73]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '15', '23', '67'] non2=[] from classes [74]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '15', '26', '36'] non2=[] from classes [81]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '24', '34'] non2=[] from classes [67]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '24', '35'] non2=[] from classes [69]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '24', '56'] non2=[] from classes [35, 70]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '25', '45'] non2=[] from classes [75]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '25', '46'] non2=[] from classes [77]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '25', '67'] non2=[] from classes [78]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '23', '45', '67'] non2=[] from classes [79]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '25', '26', '35'] non2=[] from classes [84]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '25', '35', '45'] non2=[] from classes [29, 30, 31, 83]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '25', '35', '46'] non2=[] from classes [32, 85]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '25', '35', '56'] non2=[] from classes [86]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '25', '35', '67'] non2=[] from classes [87]
+  |type2|=6 |non2|=0 type2=['12', '13', '14', '25', '36', '56'] non2=[] from classes [89]
+  |type2|=6 |non2|=0 type2=['12', '13', '24', '34', '56', '57'] non2=[] from classes [92]
+  |type2|=6 |non2|=0 type2=['12', '13', '24', '35', '45', '67'] non2=[] from classes [93]
+  |type2|=6 |non2|=0 type2=['12', '13', '24', '35', '46', '56'] non2=[] from classes [94]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '16', '23', '45'] non2=[] from classes [24]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '23', '24', '67'] non2=[] from classes [2]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '23', '26', '46'] non2=[] from classes [47]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '23', '26', '47'] non2=[] from classes [49]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '23', '45', '67'] non2=[] from classes [45]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '23', '46', '57'] non2=[] from classes [50]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '26', '36', '46'] non2=[] from classes [55]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '15', '26', '36', '47'] non2=[] from classes [56]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '24', '35', '45'] non2=[] from classes [42]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '24', '35', '46'] non2=[] from classes [43]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '24', '35', '67'] non2=[] from classes [44]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '25', '36', '45'] non2=[] from classes [51]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '25', '36', '47'] non2=[] from classes [53]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '25', '45', '67'] non2=[] from classes [52]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '23', '25', '46', '57'] non2=[] from classes [54]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '36'] non2=[] from classes [57]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '37'] non2=[] from classes [60]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '46'] non2=[] from classes [59]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '47'] non2=[] from classes [61]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '26', '37', '57'] non2=[] from classes [64]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '35', '45', '67'] non2=[] from classes [58]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '35', '46', '56'] non2=[] from classes [62]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '35', '46', '67'] non2=[] from classes [63]
+  |type2|=7 |non2|=0 type2=['12', '13', '14', '25', '36', '47', '56'] non2=[] from classes [65]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '15', '16', '23', '45', '67'] non2=[] from classes [8]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '15', '23', '24', '36', '46'] non2=[] from classes [20]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '15', '23', '24', '36', '57'] non2=[] from classes [1, 7]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '15', '23', '26', '37', '46'] non2=[] from classes [25]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '15', '23', '26', '46', '57'] non2=[] from classes [26]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '15', '26', '36', '47', '57'] non2=[] from classes [28]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '23', '24', '35', '45', '67'] non2=[] from classes [23]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '23', '25', '36', '45', '67'] non2=[] from classes [27]
+  |type2|=8 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '47', '67'] non2=[] from classes [33]
+  |type2|=5 |non2|=3 type2=['12', '13', '24', '56', '57'] non2=['36', '37', '67'] from classes [113]
+  |type2|=9 |non2|=0 type2=['12', '13', '14', '15', '23', '26', '37', '46', '57'] non2=[] from classes [9]
+  |type2|=9 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '36', '45', '46'] non2=[] from classes [10]
+  |type2|=9 |non2|=0 type2=['12', '13', '14', '25', '26', '35', '36', '47', '57'] non2=[] from classes [11]
+  |type2|=6 |non2|=3 type2=['12', '13', '24', '35', '46', '57'] non2=['16', '25', '26'] from classes [95]
+  |type2|=11 |non2|=2 type2=['12', '13', '14', '15', '23', '24', '25', '34', '35', '45', '67'] non2=['16', '17'] from classes [0]
+  |type2|=9 |non2|=5 type2=['12', '13', '14', '15', '23', '24', '26', '34', '37'] non2=['16', '45', '46', '47', '67'] from classes [3]
+  |type2|=7 |non2|=11 type2=['12', '13', '24', '35', '46', '57', '67'] non2=['14', '15', '16', '17', '23', '25', '26', '27', '34', '37', '56'] from classes [66]
+class  48 status=UNKNOWN  n2=7 Y=['12', '13', '14', '15', '23', '26', '37']  contains core #70 ['12', '13', '24', '56', '57']
+class  72 status=UNKNOWN  n2=6 Y=['12', '13', '14', '15', '23', '26']  NO known core
+class  76 status=UNKNOWN  n2=6 Y=['12', '13', '14', '23', '25', '36']  NO known core
+class  80 status=UNKNOWN  n2=6 Y=['12', '13', '14', '15', '16', '17']  NO known core
+class  82 status=UNKNOWN  n2=6 Y=['12', '13', '14', '15', '26', '37']  NO known core
+class  88 status=UNKNOWN  n2=6 Y=['12', '13', '14', '25', '26', '37']  contains core #70 ['12', '13', '24', '56', '57']
+class  90 status=UNKNOWN  n2=6 Y=['12', '13', '14', '25', '36', '47']  NO known core
+class  91 status=UNKNOWN  n2=6 Y=['12', '13', '15', '24', '36', '47']  contains core #70 ['12', '13', '24', '56', '57']
+class  97 status=UNKNOWN  n2=5 Y=['12', '13', '14', '15', '23']  NO known core
+class  98 status=UNKNOWN  n2=5 Y=['12', '13', '14', '23', '25']  NO known core
+class 102 status=UNKNOWN  n2=5 Y=['12', '13', '14', '15', '26']  NO known core
+class 105 status=UNKNOWN  n2=5 Y=['12', '13', '14', '25', '26']  NO known core
+class 106 status=UNKNOWN  n2=5 Y=['12', '13', '14', '25', '36']  NO known core
+class 107 status=UNKNOWN  n2=5 Y=['12', '14', '15', '23', '36']  NO known core
+class 108 status=UNKNOWN  n2=5 Y=['12', '13', '14', '25', '67']  NO known core
+class 111 status=UNKNOWN  n2=5 Y=['12', '13', '24', '35', '46']  NO known core
+class 112 status=UNKNOWN  n2=5 Y=['12', '13', '24', '35', '67']  NO known core
+class 114 status=UNKNOWN  n2=4 Y=['12', '13', '14', '23']  NO known core
+class 116 status=UNKNOWN  n2=4 Y=['12', '13', '14', '15']  NO known core
+class 117 status=UNKNOWN  n2=4 Y=['12', '13', '14', '25']  NO known core
+class 118 status=UNKNOWN  n2=4 Y=['12', '13', '14', '56']  NO known core
+class 120 status=UNKNOWN  n2=4 Y=['12', '13', '24', '35']  NO known core
+class 121 status=UNKNOWN  n2=4 Y=['12', '13', '24', '56']  NO known core
+class 122 status=UNKNOWN  n2=4 Y=['13', '14', '25', '26']  NO known core
+class 123 status=UNKNOWN  n2=4 Y=['12', '13', '45', '67']  NO known core
+class 124 status=UNKNOWN  n2=3 Y=['12', '13', '23']  NO known core
+class 125 status=UNKNOWN  n2=3 Y=['12', '13', '14']  NO known core
+class 126 status=UNKNOWN  n2=3 Y=['12', '13', '24']  NO known core
+class 127 status=UNKNOWN  n2=3 Y=['12', '13', '45']  NO known core
+class 128 status=NOT_RUN  n2=3 Y=['12', '34', '56']  NO known core
+class 129 status=NOT_RUN  n2=2 Y=['12', '13']  NO known core
+class 130 status=NOT_RUN  n2=2 Y=['12', '34']  NO known core
+class 131 status=NOT_RUN  n2=1 Y=['12']  NO known core
+class 132 status=NOT_RUN  n2=0 Y=[]  NO known core
+unresolved: 34  killed by known cores: 3

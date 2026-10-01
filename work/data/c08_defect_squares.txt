@@ -1,0 +1,28 @@
+--- type-1 square, H_S = {v0, 1+-, 2+-, 3+-, x+-, y+-}
+state (b)  apex zeta=-e1+e4 on line (x+, y-): D(H)=2  p=zeta d=3 sum_j=8 outside_nbrs=11 forced_zero_nbrs>=3  D(H+p)=-2
+state (b') apex zeta=+e2+e4 on line (x+, y-): D(H)=2  p=zeta d=3 sum_j=8 outside_nbrs=11 forced_zero_nbrs>=3  D(H+p)=-2
+state (a1) nu=+1e1+1e2 adjacent to x+: D(H)=2  p=nu d=3 sum_j=9 outside_nbrs=11 forced_zero_nbrs>=2  D(H+p)=-1
+state (a1) nu=+1e1-1e2 adjacent to x+: D(H)=2  p=nu d=3 sum_j=9 outside_nbrs=11 forced_zero_nbrs>=2  D(H+p)=-1
+state (a1) nu=-1e1+1e2 adjacent to x+: D(H)=2  p=nu d=3 sum_j=9 outside_nbrs=11 forced_zero_nbrs>=2  D(H+p)=-1
+state (a1) nu=-1e1-1e2 adjacent to x+: D(H)=2  p=nu d=3 sum_j=9 outside_nbrs=11 forced_zero_nbrs>=2  D(H+p)=-1
+state (a*) apex zeta=e4+e5 on line (x+, y-): D(H)=2  p=zeta d=2 sum_j=12 outside_nbrs=12 forced_zero_nbrs>=0  D(H+p)=2
+state (a0) hole omega=e6+e7: D(H)=2  p=omega d=0 sum_j=22 outside_nbrs=14 forced_zero_nbrs>=-8  D(H+p)=9
+--- type-0 square, H_S = {v0, 1..4 +-, x+-, y+-}
+cross apex zeta1=-e1-e3 on line (x+, y+): D(H)=8  p=zeta1 d=4 sum_j=8 outside_nbrs=10 forced_zero_nbrs>=2  D(H+p)=3
+kw apex zeta1=-e1+e5 on line (x+, y+): D(H)=8  p=zeta1 d=3 sum_j=12 outside_nbrs=11 forced_zero_nbrs>=-1  D(H+p)=8
+W apex zeta1=e5+e6 on line (x+, y+): D(H)=8  p=zeta1 d=2 sum_j=16 outside_nbrs=12 forced_zero_nbrs>=-4  D(H+p)=12
+--- second order, state (a0): H_1 = H_S + {zeta, -zeta}, zeta = e4+e5 on lines (x+,y-), (x-,y+)
+D(H_1) = 4  (N, M) = (13, 25)
+  psi ~ zeta,-zeta,1+: forced zero nbrs >= -5
+  psi ~ zeta,-zeta,3+: forced zero nbrs >= -4
+  psi ~ zeta,-zeta,x+: forced zero nbrs >= -3
+--- two-vertex additions: D of the induced graph H_S + p + (-p) (forced edges only); must be >= 0.
+    Agrees with D(H) - 2C(d-1,2) + 2E_p + |N(p) cap N(-p) minus H| (ONE_CANDIDATE_T1.md, Lemma X).
+  type1 apex zeta=e4+e5: D(H_S + p + (-p)) = 4
+  type1 hole omega=e6+e7: D(H_S + p + (-p)) = 18
+  type1 {a,b}-orbit nu=e1+e2: D(H_S + p + (-p)) = 8
+  type1 sibling of x: e1-e3: D(H_S + p + (-p)) = 6
+  type1 C_a-star nbr of x: e1+e4: D(H_S + p + (-p)) = 6
+  type0 cross apex -e1-e3: D(H_S + p + (-p)) = 0
+  type0 kw apex -e1+e5: D(H_S + p + (-p)) = 10
+  type0 W apex e5+e6: D(H_S + p + (-p)) = 18

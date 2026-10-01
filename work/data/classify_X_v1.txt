@@ -1,0 +1,368 @@
+G5-pass: 1741726   survivors (G5+G4+pi): 793349
+isomorphism classes of surviving X: 362
+class 0: |X|=10  (#labelled=6)  edges: 13 14 15 16 17 23 24 25 26 27
+class 1: |X|=8  (#labelled=129)  edges: 12 13 14 15 24 25 34 35
+class 2: |X|=9  (#labelled=78)  edges: 12 13 14 15 23 24 25 34 35
+class 3: |X|=10  (#labelled=702)  edges: 12 13 14 15 16 24 25 26 34 35
+class 4: |X|=10  (#labelled=348)  edges: 13 14 15 16 23 24 25 26 34 35
+class 5: |X|=11  (#labelled=324)  edges: 12 13 14 15 16 23 24 25 26 34 35
+class 6: |X|=10  (#labelled=240)  edges: 13 15 16 17 23 24 26 27 34 35
+class 7: |X|=11  (#labelled=456)  edges: 12 14 15 16 17 23 24 26 27 34 35
+class 8: |X|=12  (#labelled=210)  edges: 12 13 14 15 16 17 24 25 26 27 34 35
+class 9: |X|=12  (#labelled=102)  edges: 13 14 15 16 17 23 24 25 26 27 34 35
+class 10: |X|=13  (#labelled=102)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35
+class 11: |X|=11  (#labelled=104)  edges: 12 13 14 15 16 24 25 26 34 35 36
+class 12: |X|=12  (#labelled=32)  edges: 12 13 14 15 16 23 24 25 26 34 35 36
+class 13: |X|=11  (#labelled=396)  edges: 12 13 14 16 17 24 25 27 34 35 36
+class 14: |X|=12  (#labelled=180)  edges: 12 13 14 15 16 17 24 25 27 34 35 36
+class 15: |X|=12  (#labelled=132)  edges: 12 13 14 16 17 23 24 25 27 34 35 36
+class 16: |X|=12  (#labelled=360)  edges: 12 14 15 16 17 23 24 25 27 34 35 36
+class 17: |X|=13  (#labelled=180)  edges: 12 13 14 15 16 17 23 24 25 27 34 35 36
+class 18: |X|=13  (#labelled=108)  edges: 12 13 14 15 16 17 24 25 26 27 34 35 36
+class 19: |X|=13  (#labelled=54)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 36
+class 20: |X|=14  (#labelled=54)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36
+class 21: |X|=14  (#labelled=12)  edges: 12 13 14 15 16 17 24 25 26 27 34 35 36 37
+class 22: |X|=15  (#labelled=4)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 37
+class 23: |X|=10  (#labelled=7)  edges: 12 13 14 15 23 24 25 34 35 45
+class 24: |X|=10  (#labelled=168)  edges: 12 13 14 16 23 24 26 34 35 45
+class 25: |X|=10  (#labelled=648)  edges: 12 13 15 16 23 24 26 34 35 45
+class 26: |X|=10  (#labelled=645)  edges: 13 14 15 16 23 24 26 34 35 45
+class 27: |X|=11  (#labelled=591)  edges: 12 13 14 15 16 23 24 26 34 35 45
+class 28: |X|=11  (#labelled=97)  edges: 13 14 15 16 23 24 25 26 34 35 45
+class 29: |X|=12  (#labelled=89)  edges: 12 13 14 15 16 23 24 25 26 34 35 45
+class 30: |X|=12  (#labelled=153)  edges: 12 13 14 15 16 17 23 26 27 34 35 45
+class 31: |X|=12  (#labelled=87)  edges: 12 13 14 16 17 23 24 26 27 34 35 45
+class 32: |X|=11  (#labelled=156)  edges: 13 15 16 17 23 24 26 27 34 35 45
+class 33: |X|=12  (#labelled=156)  edges: 12 13 15 16 17 23 24 26 27 34 35 45
+class 34: |X|=12  (#labelled=147)  edges: 13 14 15 16 17 23 24 26 27 34 35 45
+class 35: |X|=13  (#labelled=147)  edges: 12 13 14 15 16 17 23 24 26 27 34 35 45
+class 36: |X|=13  (#labelled=23)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 45
+class 37: |X|=14  (#labelled=23)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 45
+class 38: |X|=10  (#labelled=78)  edges: 13 14 15 16 23 24 25 26 36 45
+class 39: |X|=10  (#labelled=420)  edges: 13 14 16 17 23 24 25 27 36 45
+class 40: |X|=10  (#labelled=210)  edges: 14 15 16 17 23 24 25 27 36 45
+class 41: |X|=12  (#labelled=42)  edges: 13 14 15 16 17 23 24 25 26 27 36 45
+class 42: |X|=10  (#labelled=126)  edges: 12 13 14 15 16 25 26 34 36 45
+class 43: |X|=9  (#labelled=114)  edges: 14 15 16 23 25 26 34 36 45
+class 44: |X|=10  (#labelled=624)  edges: 12 14 15 16 23 25 26 34 36 45
+class 45: |X|=11  (#labelled=570)  edges: 12 13 14 15 16 23 25 26 34 36 45
+class 46: |X|=11  (#labelled=282)  edges: 13 14 15 16 23 24 25 26 34 36 45
+class 47: |X|=12  (#labelled=258)  edges: 12 13 14 15 16 23 24 25 26 34 36 45
+class 48: |X|=9  (#labelled=150)  edges: 15 16 17 23 24 27 34 36 45
+class 49: |X|=12  (#labelled=132)  edges: 12 13 14 15 16 17 23 24 27 34 36 45
+class 50: |X|=11  (#labelled=828)  edges: 12 13 14 16 17 23 25 27 34 36 45
+class 51: |X|=11  (#labelled=768)  edges: 12 14 15 16 17 23 25 27 34 36 45
+class 52: |X|=12  (#labelled=372)  edges: 12 13 14 15 16 17 23 25 27 34 36 45
+class 53: |X|=10  (#labelled=372)  edges: 12 13 16 17 24 25 27 34 36 45
+class 54: |X|=10  (#labelled=756)  edges: 12 15 16 17 24 25 27 34 36 45
+class 55: |X|=10  (#labelled=696)  edges: 13 15 16 17 24 25 27 34 36 45
+class 56: |X|=11  (#labelled=348)  edges: 13 14 16 17 23 24 25 27 34 36 45
+class 57: |X|=12  (#labelled=348)  edges: 12 13 14 16 17 23 24 25 27 34 36 45
+class 58: |X|=10  (#labelled=696)  edges: 15 16 17 23 24 25 27 34 36 45
+class 59: |X|=11  (#labelled=660)  edges: 12 15 16 17 23 24 25 27 34 36 45
+class 60: |X|=11  (#labelled=636)  edges: 13 15 16 17 23 24 25 27 34 36 45
+class 61: |X|=12  (#labelled=636)  edges: 12 13 15 16 17 23 24 25 27 34 36 45
+class 62: |X|=11  (#labelled=636)  edges: 14 15 16 17 23 24 25 27 34 36 45
+class 63: |X|=12  (#labelled=630)  edges: 12 14 15 16 17 23 24 25 27 34 36 45
+class 64: |X|=12  (#labelled=612)  edges: 13 14 15 16 17 23 24 25 27 34 36 45
+class 65: |X|=13  (#labelled=606)  edges: 12 13 14 15 16 17 23 24 25 27 34 36 45
+class 66: |X|=10  (#labelled=192)  edges: 12 15 16 17 25 26 27 34 36 45
+class 67: |X|=11  (#labelled=672)  edges: 12 13 15 16 17 25 26 27 34 36 45
+class 68: |X|=12  (#labelled=288)  edges: 12 13 14 15 16 17 25 26 27 34 36 45
+class 69: |X|=12  (#labelled=321)  edges: 12 13 15 16 17 23 25 26 27 34 36 45
+class 70: |X|=11  (#labelled=288)  edges: 14 15 16 17 23 25 26 27 34 36 45
+class 71: |X|=12  (#labelled=288)  edges: 12 14 15 16 17 23 25 26 27 34 36 45
+class 72: |X|=12  (#labelled=552)  edges: 13 14 15 16 17 23 25 26 27 34 36 45
+class 73: |X|=13  (#labelled=552)  edges: 12 13 14 15 16 17 23 25 26 27 34 36 45
+class 74: |X|=13  (#labelled=132)  edges: 13 14 15 16 17 23 24 25 26 27 34 36 45
+class 75: |X|=14  (#labelled=132)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 36 45
+class 76: |X|=11  (#labelled=141)  edges: 12 14 15 16 24 25 26 34 35 36 45
+class 77: |X|=12  (#labelled=255)  edges: 12 13 14 15 16 24 25 26 34 35 36 45
+class 78: |X|=13  (#labelled=77)  edges: 12 13 14 15 16 23 24 25 26 34 35 36 45
+class 79: |X|=10  (#labelled=300)  edges: 12 16 17 24 25 27 34 35 36 45
+class 80: |X|=11  (#labelled=132)  edges: 12 13 16 17 24 25 27 34 35 36 45
+class 81: |X|=11  (#labelled=540)  edges: 12 14 16 17 24 25 27 34 35 36 45
+class 82: |X|=12  (#labelled=252)  edges: 12 13 14 16 17 24 25 27 34 35 36 45
+class 83: |X|=12  (#labelled=255)  edges: 12 14 15 16 17 24 25 27 34 35 36 45
+class 84: |X|=13  (#labelled=117)  edges: 12 13 14 15 16 17 24 25 27 34 35 36 45
+class 85: |X|=11  (#labelled=258)  edges: 14 16 17 23 24 25 27 34 35 36 45
+class 86: |X|=12  (#labelled=492)  edges: 12 14 16 17 23 24 25 27 34 35 36 45
+class 87: |X|=13  (#labelled=246)  edges: 12 13 14 16 17 23 24 25 27 34 35 36 45
+class 88: |X|=12  (#labelled=117)  edges: 14 15 16 17 23 24 25 27 34 35 36 45
+class 89: |X|=13  (#labelled=231)  edges: 12 14 15 16 17 23 24 25 27 34 35 36 45
+class 90: |X|=14  (#labelled=114)  edges: 12 13 14 15 16 17 23 24 25 27 34 35 36 45
+class 91: |X|=10  (#labelled=612)  edges: 12 14 16 17 26 27 34 35 36 45
+class 92: |X|=10  (#labelled=708)  edges: 14 16 17 23 26 27 34 35 36 45
+class 93: |X|=11  (#labelled=540)  edges: 12 14 16 17 23 26 27 34 35 36 45
+class 94: |X|=12  (#labelled=534)  edges: 12 13 14 16 17 23 26 27 34 35 36 45
+class 95: |X|=11  (#labelled=240)  edges: 14 15 16 17 23 26 27 34 35 36 45
+class 96: |X|=12  (#labelled=222)  edges: 12 14 15 16 17 23 26 27 34 35 36 45
+class 97: |X|=12  (#labelled=231)  edges: 13 14 15 16 17 23 26 27 34 35 36 45
+class 98: |X|=13  (#labelled=219)  edges: 12 13 14 15 16 17 23 26 27 34 35 36 45
+class 99: |X|=11  (#labelled=276)  edges: 12 14 16 17 24 26 27 34 35 36 45
+class 100: |X|=11  (#labelled=660)  edges: 13 14 16 17 24 26 27 34 35 36 45
+class 101: |X|=12  (#labelled=516)  edges: 12 13 14 16 17 24 26 27 34 35 36 45
+class 102: |X|=11  (#labelled=240)  edges: 12 15 16 17 24 26 27 34 35 36 45
+class 103: |X|=11  (#labelled=480)  edges: 13 15 16 17 24 26 27 34 35 36 45
+class 104: |X|=12  (#labelled=444)  edges: 12 13 15 16 17 24 26 27 34 35 36 45
+class 105: |X|=12  (#labelled=456)  edges: 12 14 15 16 17 24 26 27 34 35 36 45
+class 106: |X|=12  (#labelled=438)  edges: 13 14 15 16 17 24 26 27 34 35 36 45
+class 107: |X|=13  (#labelled=414)  edges: 12 13 14 15 16 17 24 26 27 34 35 36 45
+class 108: |X|=12  (#labelled=318)  edges: 13 14 16 17 23 24 26 27 34 35 36 45
+class 109: |X|=13  (#labelled=255)  edges: 12 13 14 16 17 23 24 26 27 34 35 36 45
+class 110: |X|=12  (#labelled=222)  edges: 13 15 16 17 23 24 26 27 34 35 36 45
+class 111: |X|=13  (#labelled=222)  edges: 12 13 15 16 17 23 24 26 27 34 35 36 45
+class 112: |X|=12  (#labelled=420)  edges: 14 15 16 17 23 24 26 27 34 35 36 45
+class 113: |X|=13  (#labelled=420)  edges: 12 14 15 16 17 23 24 26 27 34 35 36 45
+class 114: |X|=13  (#labelled=414)  edges: 13 14 15 16 17 23 24 26 27 34 35 36 45
+class 115: |X|=14  (#labelled=414)  edges: 12 13 14 15 16 17 23 24 26 27 34 35 36 45
+class 116: |X|=13  (#labelled=108)  edges: 12 14 15 16 17 24 25 26 27 34 35 36 45
+class 117: |X|=13  (#labelled=195)  edges: 13 14 15 16 17 24 25 26 27 34 35 36 45
+class 118: |X|=14  (#labelled=195)  edges: 12 13 14 15 16 17 24 25 26 27 34 35 36 45
+class 119: |X|=14  (#labelled=96)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 36 45
+class 120: |X|=15  (#labelled=96)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 45
+class 121: |X|=10  (#labelled=360)  edges: 13 15 16 17 24 26 27 36 37 45
+class 122: |X|=11  (#labelled=348)  edges: 12 13 15 16 17 24 26 27 36 37 45
+class 123: |X|=11  (#labelled=312)  edges: 13 14 15 16 17 24 26 27 36 37 45
+class 124: |X|=12  (#labelled=300)  edges: 12 13 14 15 16 17 24 26 27 36 37 45
+class 125: |X|=11  (#labelled=138)  edges: 13 15 16 17 23 24 26 27 36 37 45
+class 126: |X|=12  (#labelled=132)  edges: 12 13 15 16 17 23 24 26 27 36 37 45
+class 127: |X|=11  (#labelled=246)  edges: 14 15 16 17 23 24 26 27 36 37 45
+class 128: |X|=12  (#labelled=246)  edges: 12 14 15 16 17 23 24 26 27 36 37 45
+class 129: |X|=12  (#labelled=228)  edges: 13 14 15 16 17 23 24 26 27 36 37 45
+class 130: |X|=13  (#labelled=222)  edges: 12 13 14 15 16 17 23 24 26 27 36 37 45
+class 131: |X|=12  (#labelled=99)  edges: 13 14 15 16 17 24 25 26 27 36 37 45
+class 132: |X|=13  (#labelled=96)  edges: 12 13 14 15 16 17 24 25 26 27 36 37 45
+class 133: |X|=13  (#labelled=45)  edges: 13 14 15 16 17 23 24 25 26 27 36 37 45
+class 134: |X|=14  (#labelled=45)  edges: 12 13 14 15 16 17 23 24 25 26 27 36 37 45
+class 135: |X|=11  (#labelled=300)  edges: 12 15 16 17 24 26 27 34 36 37 45
+class 136: |X|=12  (#labelled=144)  edges: 12 13 15 16 17 24 26 27 34 36 37 45
+class 137: |X|=12  (#labelled=288)  edges: 12 14 15 16 17 24 26 27 34 36 37 45
+class 138: |X|=13  (#labelled=138)  edges: 12 13 14 15 16 17 24 26 27 34 36 37 45
+class 139: |X|=11  (#labelled=123)  edges: 15 16 17 23 24 26 27 34 36 37 45
+class 140: |X|=12  (#labelled=228)  edges: 12 15 16 17 23 24 26 27 34 36 37 45
+class 141: |X|=13  (#labelled=111)  edges: 12 13 15 16 17 23 24 26 27 34 36 37 45
+class 142: |X|=12  (#labelled=108)  edges: 14 15 16 17 23 24 26 27 34 36 37 45
+class 143: |X|=13  (#labelled=216)  edges: 12 14 15 16 17 23 24 26 27 34 36 37 45
+class 144: |X|=14  (#labelled=105)  edges: 12 13 14 15 16 17 23 24 26 27 34 36 37 45
+class 145: |X|=12  (#labelled=198)  edges: 12 14 15 16 17 25 26 27 34 36 37 45
+class 146: |X|=13  (#labelled=90)  edges: 12 13 14 15 16 17 25 26 27 34 36 37 45
+class 147: |X|=12  (#labelled=90)  edges: 14 15 16 17 23 25 26 27 34 36 37 45
+class 148: |X|=13  (#labelled=180)  edges: 12 14 15 16 17 23 25 26 27 34 36 37 45
+class 149: |X|=14  (#labelled=90)  edges: 12 13 14 15 16 17 23 25 26 27 34 36 37 45
+class 150: |X|=13  (#labelled=90)  edges: 12 14 15 16 17 24 25 26 27 34 36 37 45
+class 151: |X|=13  (#labelled=168)  edges: 13 14 15 16 17 24 25 26 27 34 36 37 45
+class 152: |X|=14  (#labelled=168)  edges: 12 13 14 15 16 17 24 25 26 27 34 36 37 45
+class 153: |X|=14  (#labelled=84)  edges: 13 14 15 16 17 23 24 25 26 27 34 36 37 45
+class 154: |X|=15  (#labelled=84)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 36 37 45
+class 155: |X|=14  (#labelled=39)  edges: 12 14 15 16 17 24 25 26 27 34 35 36 37 45
+class 156: |X|=15  (#labelled=39)  edges: 12 13 14 15 16 17 24 25 26 27 34 35 36 37 45
+class 157: |X|=16  (#labelled=13)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 37 45
+class 158: |X|=12  (#labelled=21)  edges: 13 14 15 16 23 24 25 26 35 36 45 46
+class 159: |X|=13  (#labelled=57)  edges: 12 13 14 15 16 23 24 25 26 35 36 45 46
+class 160: |X|=11  (#labelled=153)  edges: 12 13 15 17 23 25 27 35 36 45 46
+class 161: |X|=10  (#labelled=180)  edges: 14 15 17 23 25 27 35 36 45 46
+class 162: |X|=11  (#labelled=276)  edges: 12 14 15 17 23 25 27 35 36 45 46
+class 163: |X|=11  (#labelled=336)  edges: 13 14 15 17 23 25 27 35 36 45 46
+class 164: |X|=12  (#labelled=522)  edges: 12 13 14 15 17 23 25 27 35 36 45 46
+class 165: |X|=10  (#labelled=138)  edges: 14 16 17 23 25 27 35 36 45 46
+class 166: |X|=11  (#labelled=120)  edges: 12 14 16 17 23 25 27 35 36 45 46
+class 167: |X|=11  (#labelled=492)  edges: 13 14 16 17 23 25 27 35 36 45 46
+class 168: |X|=12  (#labelled=456)  edges: 12 13 14 16 17 23 25 27 35 36 45 46
+class 169: |X|=12  (#labelled=234)  edges: 13 14 15 16 17 23 25 27 35 36 45 46
+class 170: |X|=13  (#labelled=216)  edges: 12 13 14 15 16 17 23 25 27 35 36 45 46
+class 171: |X|=12  (#labelled=78)  edges: 13 14 15 17 23 24 25 27 35 36 45 46
+class 172: |X|=13  (#labelled=123)  edges: 12 13 14 15 17 23 24 25 27 35 36 45 46
+class 173: |X|=12  (#labelled=108)  edges: 13 14 16 17 23 24 25 27 35 36 45 46
+class 174: |X|=13  (#labelled=108)  edges: 12 13 14 16 17 23 24 25 27 35 36 45 46
+class 175: |X|=12  (#labelled=216)  edges: 13 15 16 17 23 24 25 27 35 36 45 46
+class 176: |X|=13  (#labelled=216)  edges: 12 13 15 16 17 23 24 25 27 35 36 45 46
+class 177: |X|=13  (#labelled=204)  edges: 13 14 15 16 17 23 24 25 27 35 36 45 46
+class 178: |X|=14  (#labelled=204)  edges: 12 13 14 15 16 17 23 24 25 27 35 36 45 46
+class 179: |X|=14  (#labelled=24)  edges: 13 14 15 16 17 23 24 25 26 27 35 36 45 46
+class 180: |X|=15  (#labelled=24)  edges: 12 13 14 15 16 17 23 24 25 26 27 35 36 45 46
+class 181: |X|=14  (#labelled=17)  edges: 12 13 14 15 16 23 24 25 26 34 35 36 45 46
+class 182: |X|=10  (#labelled=66)  edges: 12 15 17 25 27 34 35 36 45 46
+class 183: |X|=11  (#labelled=228)  edges: 12 13 15 17 25 27 34 35 36 45 46
+class 184: |X|=12  (#labelled=207)  edges: 12 13 14 15 17 25 27 34 35 36 45 46
+class 185: |X|=10  (#labelled=114)  edges: 12 16 17 25 27 34 35 36 45 46
+class 186: |X|=10  (#labelled=312)  edges: 13 16 17 25 27 34 35 36 45 46
+class 187: |X|=11  (#labelled=384)  edges: 12 13 16 17 25 27 34 35 36 45 46
+class 188: |X|=11  (#labelled=225)  edges: 13 14 16 17 25 27 34 35 36 45 46
+class 189: |X|=12  (#labelled=165)  edges: 12 13 14 16 17 25 27 34 35 36 45 46
+class 190: |X|=11  (#labelled=198)  edges: 12 15 16 17 25 27 34 35 36 45 46
+class 191: |X|=11  (#labelled=288)  edges: 13 15 16 17 25 27 34 35 36 45 46
+class 192: |X|=12  (#labelled=360)  edges: 12 13 15 16 17 25 27 34 35 36 45 46
+class 193: |X|=12  (#labelled=207)  edges: 13 14 15 16 17 25 27 34 35 36 45 46
+class 194: |X|=13  (#labelled=150)  edges: 12 13 14 15 16 17 25 27 34 35 36 45 46
+class 195: |X|=12  (#labelled=96)  edges: 12 14 15 17 23 25 27 34 35 36 45 46
+class 196: |X|=13  (#labelled=186)  edges: 12 13 14 15 17 23 25 27 34 35 36 45 46
+class 197: |X|=11  (#labelled=264)  edges: 13 16 17 23 25 27 34 35 36 45 46
+class 198: |X|=12  (#labelled=174)  edges: 12 13 16 17 23 25 27 34 35 36 45 46
+class 199: |X|=11  (#labelled=192)  edges: 14 16 17 23 25 27 34 35 36 45 46
+class 200: |X|=12  (#labelled=156)  edges: 12 14 16 17 23 25 27 34 35 36 45 46
+class 201: |X|=12  (#labelled=330)  edges: 13 14 16 17 23 25 27 34 35 36 45 46
+class 202: |X|=13  (#labelled=306)  edges: 12 13 14 16 17 23 25 27 34 35 36 45 46
+class 203: |X|=11  (#labelled=504)  edges: 15 16 17 23 25 27 34 35 36 45 46
+class 204: |X|=12  (#labelled=324)  edges: 12 15 16 17 23 25 27 34 35 36 45 46
+class 205: |X|=12  (#labelled=480)  edges: 13 15 16 17 23 25 27 34 35 36 45 46
+class 206: |X|=13  (#labelled=324)  edges: 12 13 15 16 17 23 25 27 34 35 36 45 46
+class 207: |X|=12  (#labelled=324)  edges: 14 15 16 17 23 25 27 34 35 36 45 46
+class 208: |X|=13  (#labelled=288)  edges: 12 14 15 16 17 23 25 27 34 35 36 45 46
+class 209: |X|=13  (#labelled=300)  edges: 13 14 15 16 17 23 25 27 34 35 36 45 46
+class 210: |X|=14  (#labelled=276)  edges: 12 13 14 15 16 17 23 25 27 34 35 36 45 46
+class 211: |X|=14  (#labelled=45)  edges: 12 13 14 15 17 23 24 25 27 34 35 36 45 46
+class 212: |X|=13  (#labelled=75)  edges: 13 14 16 17 23 24 25 27 34 35 36 45 46
+class 213: |X|=14  (#labelled=75)  edges: 12 13 14 16 17 23 24 25 27 34 35 36 45 46
+class 214: |X|=12  (#labelled=153)  edges: 15 16 17 23 24 25 27 34 35 36 45 46
+class 215: |X|=13  (#labelled=141)  edges: 12 15 16 17 23 24 25 27 34 35 36 45 46
+class 216: |X|=13  (#labelled=282)  edges: 13 15 16 17 23 24 25 27 34 35 36 45 46
+class 217: |X|=14  (#labelled=282)  edges: 12 13 15 16 17 23 24 25 27 34 35 36 45 46
+class 218: |X|=14  (#labelled=135)  edges: 13 14 15 16 17 23 24 25 27 34 35 36 45 46
+class 219: |X|=15  (#labelled=135)  edges: 12 13 14 15 16 17 23 24 25 27 34 35 36 45 46
+class 220: |X|=12  (#labelled=42)  edges: 12 15 16 17 25 26 27 34 35 36 45 46
+class 221: |X|=12  (#labelled=228)  edges: 13 15 16 17 25 26 27 34 35 36 45 46
+class 222: |X|=13  (#labelled=150)  edges: 12 13 15 16 17 25 26 27 34 35 36 45 46
+class 223: |X|=13  (#labelled=66)  edges: 13 14 15 16 17 25 26 27 34 35 36 45 46
+class 224: |X|=14  (#labelled=63)  edges: 12 13 14 15 16 17 25 26 27 34 35 36 45 46
+class 225: |X|=13  (#labelled=108)  edges: 13 15 16 17 23 25 26 27 34 35 36 45 46
+class 226: |X|=14  (#labelled=75)  edges: 12 13 15 16 17 23 25 26 27 34 35 36 45 46
+class 227: |X|=13  (#labelled=66)  edges: 14 15 16 17 23 25 26 27 34 35 36 45 46
+class 228: |X|=14  (#labelled=66)  edges: 12 14 15 16 17 23 25 26 27 34 35 36 45 46
+class 229: |X|=14  (#labelled=126)  edges: 13 14 15 16 17 23 25 26 27 34 35 36 45 46
+class 230: |X|=15  (#labelled=126)  edges: 12 13 14 15 16 17 23 25 26 27 34 35 36 45 46
+class 231: |X|=15  (#labelled=30)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 36 45 46
+class 232: |X|=16  (#labelled=30)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 45 46
+class 233: |X|=12  (#labelled=36)  edges: 12 13 14 15 16 17 26 27 35 37 45 46
+class 234: |X|=12  (#labelled=180)  edges: 12 13 15 16 17 23 26 27 35 37 45 46
+class 235: |X|=11  (#labelled=162)  edges: 14 15 16 17 23 26 27 35 37 45 46
+class 236: |X|=12  (#labelled=288)  edges: 12 14 15 16 17 23 26 27 35 37 45 46
+class 237: |X|=13  (#labelled=120)  edges: 12 13 14 15 16 17 23 26 27 35 37 45 46
+class 238: |X|=11  (#labelled=108)  edges: 15 16 17 23 24 26 27 35 37 45 46
+class 239: |X|=12  (#labelled=204)  edges: 12 15 16 17 23 24 26 27 35 37 45 46
+class 240: |X|=12  (#labelled=252)  edges: 13 15 16 17 23 24 26 27 35 37 45 46
+class 241: |X|=13  (#labelled=240)  edges: 12 13 15 16 17 23 24 26 27 35 37 45 46
+class 242: |X|=13  (#labelled=108)  edges: 13 14 15 16 17 23 24 26 27 35 37 45 46
+class 243: |X|=14  (#labelled=108)  edges: 12 13 14 15 16 17 23 24 26 27 35 37 45 46
+class 244: |X|=13  (#labelled=96)  edges: 12 13 14 15 16 17 25 26 27 35 37 45 46
+class 245: |X|=13  (#labelled=165)  edges: 12 13 15 16 17 23 25 26 27 35 37 45 46
+class 246: |X|=12  (#labelled=132)  edges: 14 15 16 17 23 25 26 27 35 37 45 46
+class 247: |X|=13  (#labelled=132)  edges: 12 14 15 16 17 23 25 26 27 35 37 45 46
+class 248: |X|=13  (#labelled=228)  edges: 13 14 15 16 17 23 25 26 27 35 37 45 46
+class 249: |X|=14  (#labelled=216)  edges: 12 13 14 15 16 17 23 25 26 27 35 37 45 46
+class 250: |X|=14  (#labelled=48)  edges: 13 14 15 16 17 23 24 25 26 27 35 37 45 46
+class 251: |X|=15  (#labelled=48)  edges: 12 13 14 15 16 17 23 24 25 26 27 35 37 45 46
+class 252: |X|=12  (#labelled=42)  edges: 15 16 17 23 24 26 27 34 35 37 45 46
+class 253: |X|=13  (#labelled=108)  edges: 12 15 16 17 23 24 26 27 34 35 37 45 46
+class 254: |X|=14  (#labelled=108)  edges: 12 13 15 16 17 23 24 26 27 34 35 37 45 46
+class 255: |X|=15  (#labelled=36)  edges: 12 13 14 15 16 17 23 24 26 27 34 35 37 45 46
+class 256: |X|=12  (#labelled=66)  edges: 12 15 16 17 25 26 27 34 35 37 45 46
+class 257: |X|=12  (#labelled=192)  edges: 13 15 16 17 25 26 27 34 35 37 45 46
+class 258: |X|=13  (#labelled=228)  edges: 12 13 15 16 17 25 26 27 34 35 37 45 46
+class 259: |X|=13  (#labelled=108)  edges: 13 14 15 16 17 25 26 27 34 35 37 45 46
+class 260: |X|=14  (#labelled=96)  edges: 12 13 14 15 16 17 25 26 27 34 35 37 45 46
+class 261: |X|=13  (#labelled=180)  edges: 13 15 16 17 23 25 26 27 34 35 37 45 46
+class 262: |X|=14  (#labelled=108)  edges: 12 13 15 16 17 23 25 26 27 34 35 37 45 46
+class 263: |X|=13  (#labelled=96)  edges: 14 15 16 17 23 25 26 27 34 35 37 45 46
+class 264: |X|=14  (#labelled=96)  edges: 12 14 15 16 17 23 25 26 27 34 35 37 45 46
+class 265: |X|=14  (#labelled=192)  edges: 13 14 15 16 17 23 25 26 27 34 35 37 45 46
+class 266: |X|=15  (#labelled=192)  edges: 12 13 14 15 16 17 23 25 26 27 34 35 37 45 46
+class 267: |X|=15  (#labelled=48)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 37 45 46
+class 268: |X|=16  (#labelled=48)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 37 45 46
+class 269: |X|=14  (#labelled=42)  edges: 12 13 14 15 16 17 25 26 27 35 36 37 45 46
+class 270: |X|=14  (#labelled=25)  edges: 12 13 15 16 17 23 25 26 27 35 36 37 45 46
+class 271: |X|=13  (#labelled=51)  edges: 14 15 16 17 23 25 26 27 35 36 37 45 46
+class 272: |X|=14  (#labelled=102)  edges: 12 14 15 16 17 23 25 26 27 35 36 37 45 46
+class 273: |X|=15  (#labelled=48)  edges: 12 13 14 15 16 17 23 25 26 27 35 36 37 45 46
+class 274: |X|=13  (#labelled=42)  edges: 14 15 16 17 24 25 26 27 35 36 37 45 46
+class 275: |X|=14  (#labelled=45)  edges: 12 14 15 16 17 24 25 26 27 35 36 37 45 46
+class 276: |X|=14  (#labelled=84)  edges: 13 14 15 16 17 24 25 26 27 35 36 37 45 46
+class 277: |X|=15  (#labelled=84)  edges: 12 13 14 15 16 17 24 25 26 27 35 36 37 45 46
+class 278: |X|=15  (#labelled=42)  edges: 13 14 15 16 17 23 24 25 26 27 35 36 37 45 46
+class 279: |X|=16  (#labelled=42)  edges: 12 13 14 15 16 17 23 24 25 26 27 35 36 37 45 46
+class 280: |X|=14  (#labelled=26)  edges: 14 15 16 17 24 25 26 27 34 35 36 37 45 46
+class 281: |X|=15  (#labelled=42)  edges: 12 14 15 16 17 24 25 26 27 34 35 36 37 45 46
+class 282: |X|=16  (#labelled=42)  edges: 12 13 14 15 16 17 24 25 26 27 34 35 36 37 45 46
+class 283: |X|=17  (#labelled=14)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 37 45 46
+class 284: |X|=15  (#labelled=4)  edges: 12 13 14 15 16 17 25 26 27 35 36 37 45 46 47
+class 285: |X|=15  (#labelled=4)  edges: 12 13 15 16 17 23 25 26 27 35 36 37 45 46 47
+class 286: |X|=14  (#labelled=3)  edges: 14 15 16 17 23 25 26 27 35 36 37 45 46 47
+class 287: |X|=15  (#labelled=12)  edges: 12 14 15 16 17 23 25 26 27 35 36 37 45 46 47
+class 288: |X|=16  (#labelled=12)  edges: 12 13 14 15 16 17 23 25 26 27 35 36 37 45 46 47
+class 289: |X|=16  (#labelled=3)  edges: 13 14 15 16 17 23 24 25 26 27 35 36 37 45 46 47
+class 290: |X|=17  (#labelled=6)  edges: 12 13 14 15 16 17 23 24 25 26 27 35 36 37 45 46 47
+class 291: |X|=18  (#labelled=1)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 37 45 46 47
+class 292: |X|=15  (#labelled=1)  edges: 12 13 14 15 16 23 24 25 26 34 35 36 45 46 56
+class 293: |X|=11  (#labelled=66)  edges: 12 14 17 23 27 34 35 36 45 46 56
+class 294: |X|=12  (#labelled=120)  edges: 12 13 14 17 23 27 34 35 36 45 46 56
+class 295: |X|=12  (#labelled=102)  edges: 12 14 15 17 23 27 34 35 36 45 46 56
+class 296: |X|=13  (#labelled=99)  edges: 12 13 14 15 17 23 27 34 35 36 45 46 56
+class 297: |X|=12  (#labelled=23)  edges: 14 15 16 17 23 27 34 35 36 45 46 56
+class 298: |X|=13  (#labelled=25)  edges: 12 14 15 16 17 23 27 34 35 36 45 46 56
+class 299: |X|=13  (#labelled=17)  edges: 13 14 15 16 17 23 27 34 35 36 45 46 56
+class 300: |X|=14  (#labelled=18)  edges: 12 13 14 15 16 17 23 27 34 35 36 45 46 56
+class 301: |X|=13  (#labelled=27)  edges: 12 13 14 17 23 24 27 34 35 36 45 46 56
+class 302: |X|=13  (#labelled=90)  edges: 12 13 15 17 23 24 27 34 35 36 45 46 56
+class 303: |X|=14  (#labelled=87)  edges: 12 13 14 15 17 23 24 27 34 35 36 45 46 56
+class 304: |X|=12  (#labelled=27)  edges: 15 16 17 23 24 27 34 35 36 45 46 56
+class 305: |X|=13  (#labelled=18)  edges: 12 15 16 17 23 24 27 34 35 36 45 46 56
+class 306: |X|=13  (#labelled=81)  edges: 13 15 16 17 23 24 27 34 35 36 45 46 56
+class 307: |X|=14  (#labelled=69)  edges: 12 13 15 16 17 23 24 27 34 35 36 45 46 56
+class 308: |X|=14  (#labelled=27)  edges: 13 14 15 16 17 23 24 27 34 35 36 45 46 56
+class 309: |X|=15  (#labelled=24)  edges: 12 13 14 15 16 17 23 24 27 34 35 36 45 46 56
+class 310: |X|=15  (#labelled=14)  edges: 12 13 14 15 17 23 24 25 27 34 35 36 45 46 56
+class 311: |X|=14  (#labelled=33)  edges: 13 14 16 17 23 24 25 27 34 35 36 45 46 56
+class 312: |X|=15  (#labelled=33)  edges: 12 13 14 16 17 23 24 25 27 34 35 36 45 46 56
+class 313: |X|=15  (#labelled=15)  edges: 13 14 15 16 17 23 24 25 27 34 35 36 45 46 56
+class 314: |X|=16  (#labelled=15)  edges: 12 13 14 15 16 17 23 24 25 27 34 35 36 45 46 56
+class 315: |X|=16  (#labelled=1)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 36 45 46 56
+class 316: |X|=17  (#labelled=1)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 36 45 46 56
+class 317: |X|=12  (#labelled=2)  edges: 12 13 14 15 16 17 23 27 37 45 46 56
+class 318: |X|=11  (#labelled=27)  edges: 13 15 16 17 23 24 27 37 45 46 56
+class 319: |X|=12  (#labelled=36)  edges: 12 13 15 16 17 23 24 27 37 45 46 56
+class 320: |X|=13  (#labelled=12)  edges: 12 13 14 15 16 17 23 24 27 37 45 46 56
+class 321: |X|=12  (#labelled=36)  edges: 13 14 16 17 23 24 25 27 37 45 46 56
+class 322: |X|=13  (#labelled=30)  edges: 12 13 14 16 17 23 24 25 27 37 45 46 56
+class 323: |X|=13  (#labelled=21)  edges: 13 14 15 16 17 23 24 25 27 37 45 46 56
+class 324: |X|=14  (#labelled=18)  edges: 12 13 14 15 16 17 23 24 25 27 37 45 46 56
+class 325: |X|=14  (#labelled=1)  edges: 13 14 15 16 17 23 24 25 26 27 37 45 46 56
+class 326: |X|=15  (#labelled=1)  edges: 12 13 14 15 16 17 23 24 25 26 27 37 45 46 56
+class 327: |X|=12  (#labelled=18)  edges: 12 13 16 17 23 25 27 34 37 45 46 56
+class 328: |X|=12  (#labelled=72)  edges: 13 14 16 17 23 25 27 34 37 45 46 56
+class 329: |X|=13  (#labelled=84)  edges: 12 13 14 16 17 23 25 27 34 37 45 46 56
+class 330: |X|=14  (#labelled=12)  edges: 12 13 14 15 16 17 23 25 27 34 37 45 46 56
+class 331: |X|=13  (#labelled=54)  edges: 13 14 16 17 23 24 25 27 34 37 45 46 56
+class 332: |X|=14  (#labelled=42)  edges: 12 13 14 16 17 23 24 25 27 34 37 45 46 56
+class 333: |X|=13  (#labelled=36)  edges: 13 15 16 17 23 24 25 27 34 37 45 46 56
+class 334: |X|=14  (#labelled=60)  edges: 12 13 15 16 17 23 24 25 27 34 37 45 46 56
+class 335: |X|=15  (#labelled=24)  edges: 12 13 14 15 16 17 23 24 25 27 34 37 45 46 56
+class 336: |X|=13  (#labelled=48)  edges: 12 13 15 16 17 25 26 27 34 37 45 46 56
+class 337: |X|=14  (#labelled=12)  edges: 12 13 14 15 16 17 25 26 27 34 37 45 46 56
+class 338: |X|=14  (#labelled=15)  edges: 12 13 15 16 17 23 25 26 27 34 37 45 46 56
+class 339: |X|=13  (#labelled=12)  edges: 14 15 16 17 23 25 26 27 34 37 45 46 56
+class 340: |X|=14  (#labelled=18)  edges: 12 14 15 16 17 23 25 26 27 34 37 45 46 56
+class 341: |X|=14  (#labelled=12)  edges: 13 14 15 16 17 23 25 26 27 34 37 45 46 56
+class 342: |X|=15  (#labelled=12)  edges: 12 13 14 15 16 17 23 25 26 27 34 37 45 46 56
+class 343: |X|=15  (#labelled=6)  edges: 12 13 14 15 16 17 24 25 26 27 34 37 45 46 56
+class 344: |X|=15  (#labelled=3)  edges: 13 14 15 16 17 23 24 25 26 27 34 37 45 46 56
+class 345: |X|=16  (#labelled=3)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 37 45 46 56
+class 346: |X|=14  (#labelled=36)  edges: 12 14 16 17 23 24 25 27 34 35 37 45 46 56
+class 347: |X|=15  (#labelled=30)  edges: 12 13 14 16 17 23 24 25 27 34 35 37 45 46 56
+class 348: |X|=16  (#labelled=6)  edges: 12 13 14 15 16 17 23 24 25 27 34 35 37 45 46 56
+class 349: |X|=13  (#labelled=18)  edges: 12 15 16 17 24 26 27 34 35 37 45 46 56
+class 350: |X|=14  (#labelled=18)  edges: 12 13 15 16 17 24 26 27 34 35 37 45 46 56
+class 351: |X|=14  (#labelled=24)  edges: 12 14 15 16 17 24 26 27 34 35 37 45 46 56
+class 352: |X|=15  (#labelled=12)  edges: 12 13 14 15 16 17 24 26 27 34 35 37 45 46 56
+class 353: |X|=15  (#labelled=6)  edges: 12 13 15 16 17 23 24 26 27 34 35 37 45 46 56
+class 354: |X|=14  (#labelled=12)  edges: 14 15 16 17 23 24 26 27 34 35 37 45 46 56
+class 355: |X|=15  (#labelled=24)  edges: 12 14 15 16 17 23 24 26 27 34 35 37 45 46 56
+class 356: |X|=16  (#labelled=12)  edges: 12 13 14 15 16 17 23 24 26 27 34 35 37 45 46 56
+class 357: |X|=15  (#labelled=3)  edges: 12 14 15 16 17 24 25 26 27 34 35 37 45 46 56
+class 358: |X|=15  (#labelled=6)  edges: 13 14 15 16 17 24 25 26 27 34 35 37 45 46 56
+class 359: |X|=16  (#labelled=6)  edges: 12 13 14 15 16 17 24 25 26 27 34 35 37 45 46 56
+class 360: |X|=16  (#labelled=3)  edges: 13 14 15 16 17 23 24 25 26 27 34 35 37 45 46 56
+class 361: |X|=17  (#labelled=3)  edges: 12 13 14 15 16 17 23 24 25 26 27 34 35 37 45 46 56
+
+real	1m2.736s
+user	0m0.030s
+sys	0m0.046s

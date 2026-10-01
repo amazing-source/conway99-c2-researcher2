@@ -1,0 +1,69 @@
+● The Exact Reconstruction Theorem holds as stated. The full equivalence "C2 exists iff some N has feasible L_N" holds
+  conditionally: it needs the external fixed-point input F0, and only for the direction C2 ⇒ N. I found no gap, false
+  step or counterexample.
+
+  ┌───────────────────────────────────────────────────────────────────────────────────────┬─────────────────────────┐
+  │                                         Claim                                         │         Verdict         │
+  ├───────────────────────────────────────────────────────────────────────────────────────┼─────────────────────────┤
+  │ T4: for every complete N, L_N is empty or a single integral fixed-point-free perfect  │ Verified                │
+  │ matching                                                                              │                         │
+  ├───────────────────────────────────────────────────────────────────────────────────────┼─────────────────────────┤
+  │ Reconstruction: a feasible (N, D) gives an srg(99,14,1,2) with an involution fixing   │ Verified                │
+  │ exactly one vertex                                                                    │                         │
+  ├───────────────────────────────────────────────────────────────────────────────────────┼─────────────────────────┤
+  │ Extraction: a graph with an involution fixing exactly one vertex gives N and D ∈ L_N  │ Verified                │
+  ├───────────────────────────────────────────────────────────────────────────────────────┼─────────────────────────┤
+  │ One-fixed-point version: such a graph exists iff some N has feasible L_N              │ Verified, no conditions │
+  ├───────────────────────────────────────────────────────────────────────────────────────┼─────────────────────────┤
+  │ C2 exists iff some N has feasible L_N                                                 │ Verified conditional on │
+  │                                                                                       │  F0                     │
+  └───────────────────────────────────────────────────────────────────────────────────────┴─────────────────────────┘
+
+  Where F0 enters. It is needed only to reduce an arbitrary involution to the one-fixed-point model, in three places:
+  - Fixing the vertex x itself.
+  - Showing σ swaps the two ends of every interior edge.
+  - Showing no exterior vertex is adjacent to its own image.
+
+  The dossier's fourth use (row sums D1 = 1) can be dropped: it follows from Q1 = 12 and B1 = 10. The elementary part of
+  F0 is free: 99 is odd, so some vertex is fixed; the real content is that no involution fixes 3 or more. I did not
+  verify F0 or its attribution. In the analogous 9- and 243-vertex graphs, involutions fixing 3, 9 or 27 vertices exist,
+  so F0 is specific to 99 vertices.
+
+  Wording and scope issues (none affects validity):
+  - PROOF_CURRENT.md Lemma 3.1 writes "0 = (X²+X)_cc"; the entry is 8, and the step is only valid as a congruence mod 2.
+  - Lemma 4.2 omits "or infeasible" for a 2+2 block that has no doubly stochastic pattern.
+  - The original notes (LINEAR_COMPLETION.md §7, eq. (12), and the French note's §10) state "C2 exists iff …" without
+    F0. The consolidated dossier already corrects this.
+
+  Structural remarks:
+  - L_N depends on N only through |N|; the signs matter only through the parity Bχ ≡ 0 (mod 2).
+  - The row-sum-10 hypothesis on B is implied by feasibility of L_N.
+  - That parity needs NR = 0 as an integer identity, not just mod 2.
+  - I also proved the reconstruction a second way, with a direct block identity on the full 99×99 matrix (the dossier
+    works on the even/odd subspaces).
+
+  Computational checks:
+  - The supplied suite and byte manifest pass here.
+  - My own script uses none of the dossier's code:
+    - An exhaustive table of the local entry equations confirms only the claimed pin, equality and complement forms
+      occur.
+    - 900 synthetic systems agree with a full linear-program check over every entry of D.
+    - The 99×99 block identity held exactly on 25 random instances.
+    - Independently rebuilt 9- and 243-vertex controls pass. For the 243-vertex one, the linear program over 5,995
+      variables confirms L_N is a single point.
+
+  Limitation: no computation exercised the core contradiction (the parity-versus-trace step) on a genuine instance. The
+  only real graphs available (9 and 243 vertices) have no ambiguous blocks, and I showed smaller analogues cannot exist.
+  That step rests on the written proof, which I re-derived independently.
+
+  Not decided: whether any valid N with feasible L_N exists, whether the set of valid N is even nonempty, F0 itself, and
+  Conway graphs without involutions. The older results T2 and T3 were not audited; T4 does not depend on them.
+
+  Nothing outside review/ was changed, and the manifest still passes. I've stopped at the audit phase as instructed.
+
+  Files are in review/:
+  - AUDIT_REPORT.md
+  - independent_checks.py
+  - independent_checks_output.json
+  - supplied_suite_run/
+

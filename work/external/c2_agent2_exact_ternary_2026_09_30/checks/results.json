@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-30",
+  "status": "ALL_BOUNDED_CHECKS_PASS",
+  "not_a_proof_of_C2_nonexistence": true,
+  "scalar_windows": {
+    "linear_sign_assignments": 21,
+    "quadratic_scalar_cases": 73,
+    "quadratic_cases_divisible_by_three": 25,
+    "all_checks_pass": true
+  },
+  "positive_graph_controls": [
+    {
+      "m": 2,
+      "vertices": 9,
+      "exterior_orbits": 2,
+      "SRG_and_integer_signed_equations_verified": true,
+      "T_cap": true,
+      "E_cap": true,
+      "T_twice_min": 2,
+      "E_twice_min": 0,
+      "scope": "General bounded-window lemma, NOT the m=7 projector theorem."
+    },
+    {
+      "m": 11,
+      "vertices": 243,
+      "exterior_orbits": 110,
+      "SRG_and_integer_signed_equations_verified": true,
+      "T_cap": true,
+      "E_cap": true,
+      "T_twice_min": 0,
+      "E_twice_min": 0,
+      "scope": "General bounded-window lemma, NOT the m=7 projector theorem."
+    }
+  ],
+  "finite_field_countermodel": {
+    "all_five_ternary_projector_conditions_verified": true,
+    "integer_linear_error_nonzero": true,
+    "integer_quadratic_error_nonzero": true,
+    "row_weight_histogram": {
+      "22": 2,
+      "25": 2,
+      "28": 9,
+      "31": 8,
+      "34": 11,
+      "37": 10
+    },
+    "T_cap": false,
+    "E_cap": false,
+    "T_twice_min": -9,
+    "E_twice_min": -32,
+    "is_C2_witness": false
+  },
+  "excluded_family_arithmetic": {
+    "seven_value_assignments_checked": 2187,
+    "individual_zero_count_formulas_checked": 45927,
+    "surviving_value_patterns": [
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "integer_Gram_rank": 20,
+    "scope": "Checks of the written hand proof, NOT enumeration of the 3^105 lifts."
+  },
+  "newly_excluded_original_envelope_ids": [],
+  "newly_excluded_original_rank17_pair_ids": []
+}

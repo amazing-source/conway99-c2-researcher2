@@ -1,0 +1,20 @@
+# Output of checks/c12_microscope_bvls_mixed.py and of the inline debug check that followed it.
+# COPIED VERBATIM from the session log (not rerun). Session cbac93e9; tool results at 2026-10-01T06:55:36.481Z and 2026-10-01T06:56:05.220Z (UTC).
+
+## c12 output
+n = 110  Q entries [np.int64(0), np.int64(1), np.int64(2)]  coupling (Q-1)^2+N^2 = 1 off diag: True
+distinct eigenvalues of Z (count): 110
+Z Z^* hermitian spectrum: [(np.float64(0.0182), 1), (np.float64(0.0434), 1), (np.float64(0.1142), 1), (np.float64(0.149), 1), (np.float64(0.2446), 1), (np.float64(0.3086), 1), (np.float64(0.3886), 1), (np.float64(0.4869), 1), (np.float64(0.8366), 1), (np.float64(1.0393), 1), (np.float64(1.2866), 1), (np.float64(1.4731), 1)]
+N + DND spectrum: [(np.float64(-8.0), 4), (np.float64(-7.9817), 1), (np.float64(-7.9789), 1), (np.float64(-7.9689), 1), (np.float64(-7.9547), 1), (np.float64(-7.9357), 1), (np.float64(-7.9284), 1), (np.float64(-7.8836), 1), (np.float64(-7.8464), 1), (np.float64(-7.6659), 1), (np.float64(-7.65), 1), (np.float64(-7.6226), 1), (np.float64(-7.5529), 1), (np.float64(-7.4563), 1), (np.float64(-7.4344), 1), (np.float64(-7.2448), 1), (np.float64(-7.1606), 1), (np.float64(-7.0539), 1), (np.float64(-6.9149), 1), (np.float64(-6.8838), 1), (np.float64(-6.547), 1), (np.float64(-6.5436), 1), (np.float64(-6.3726), 1), (np.float64(-6.0635), 1), (np.float64(-6.039), 1), (np.float64(-5.7278), 1), (np.float64(-5.2298), 1), (np.float64(-5.1716), 1), (np.float64(-5.1007), 1), (np.float64(-4.8142), 1), (np.float64(-4.4364), 1), (np.float64(-4.2633), 1), (np.float64(-3.9415), 1), (np.float64(-3.832), 1), (np.float64(-3.7761), 1), (np.float64(-3.4), 1), (np.float64(-3.1602), 1), (np.float64(-3.0433), 1), (np.float64(-2.8519), 1), (np.float64(-2.5583), 1), (np.float64(-2.3883), 1), (np.float64(-2.2898), 1), (np.float64(-2.1476), 1), (np.float64(-1.9616), 1), (np.float64(-1.9281), 1), (np.float64(-1.5331), 1), (np.float64(-1.269), 1), (np.float64(-1.1905), 1), (np.float64(-1.135), 1), (np.float64(-0.9795), 1), (np.float64(-0.9654), 1), (np.float64(-0.9156), 1), (np.float64(-0.5412), 1), (np.float64(-0.2968), 1), (np.float64(-0.1426), 1), (np.float64(0.0), 2), (np.float64(0.0735), 1), (np.float64(0.2698), 1), (np.float64(0.6537), 1), (np.float64(0.793), 1), (np.float64(1.1172), 1), (np.float64(1.134), 1), (np.float64(1.6439), 1), (np.float64(1.8345), 1), (np.float64(2.2014), 1), (np.float64(2.579), 1), (np.float64(2.8379), 1), (np.float64(3.3484), 1), (np.float64(3.638), 1), (np.float64(3.7679), 1), (np.float64(3.9542), 1), (np.float64(4.0616), 1), (np.float64(4.1922), 1), (np.float64(4.2466), 1), (np.float64(4.6454), 1), (np.float64(4.6832), 1), (np.float64(5.0423), 1), (np.float64(5.1343), 1), (np.float64(5.6983), 1), (np.float64(5.9625), 1), (np.float64(6.113), 1), (np.float64(6.4932), 1), (np.float64(6.4984), 1), (np.float64(7.0207), 1), (np.float64(7.0319), 1), (np.float64(7.1268), 1), (np.float64(7.2497), 1), (np.float64(7.2756), 1), (np.float64(7.4231), 1), (np.float64(7.8708), 1), (np.float64(7.9506), 1), (np.float64(8.4099), 1), (np.float64(8.4555), 1), (np.float64(8.5007), 1), (np.float64(8.9449), 1), (np.float64(8.9886), 1), (np.float64(9.0451), 1), (np.float64(9.0513), 1), (np.float64(9.1194), 1), (np.float64(9.2669), 1), (np.float64(9.3923), 1), (np.float64(9.4764), 1), (np.float64(9.5435), 1), (np.float64(9.5461), 1), (np.float64(9.6322), 1), (np.float64(9.7362), 1)]
+commutator [N,D] zero? False
+tr((ND)^2) = 0
+beta=2 pairs b2 = 0
+
+## inline debug check (D = sibling map?; B-block between cells (0,1) and (2,3); beta there; max beta; D*B)
+D is sibling map: True
+D row sums {np.int64(1)}  D symmetric True  D diag {np.int64(0)}
+B block c x d:
+ [[0 0]
+ [1 0]]
+beta values on c x d: [[1, 0], [0, 1]]
+max beta over all pairs: 1  D-B overlap 0
