@@ -311,3 +311,34 @@ Explicit integral glue maps: 77E_3, 63E_-4 (even side) and A_- + 4, 3 - A_- (odd
 - (d) If K = 0 (Q commutes with kappa), then 7 | tau.
 
 **Consequence for EX:** none. Flatness is impossible (zero twist forces zero leakage and a pinned Alt spectrum, which is R4). Twisting is impossible only in its pure forms. Mixed twist must supply >= 6 exact kappa-odd 3-eigenvectors; that is open.
+
+---------------------------------------------------------------------------------------------------
+## R21. Resource needed for the odd 3-eigenspace: twist slacks and leakage window  [DERIVED + CHECKED t04] -> twist/ODD_EIGENSPACE_RESOURCE.md
+
+Notation: d and d' count the exact odd 3- and -4-eigenvectors; d_S and d'_S count the exact even ones; g = rank K.
+
+**(a) Exact multiplicities** (two-subspace geometry, dimensions 21/14/20/15): d = 6 + d'_S, d' = 1 + d_S, g = 21 - d - d'.
+
+**(b) Twist slacks:**
+- sigma_- := tau - 7(d-6) = sum_leaky(lambda + 4) >= 0;
+- sigma_+ := 105 - 7d' - tau = sum_leaky(3 - lambda) >= 0;
+- sigma_- + sigma_+ = 7g.
+
+**(c) Leakage window:** 2g <= ||Z||^2 <= 14 sigma_- sigma_+ / (sigma_- + sigma_+).
+- The lower end comes from star-balanced columns having support >= 4 (t04).
+- Hence d <= 6 + tau/7 - ||Z||^2/98. Exact odd 3-eigenvectors cost twist (7 each beyond 6), and leakage competes with them.
+- No ||Z||^2 >= G(d, tau) increasing in d follows from scalar data.
+
+**(d) Comparison at d = 6, d' = 1:** the window reads 28 <= ||Z||^2 <= tau(98 - tau)/7 = 448 - 2tau - (tau-56)^2/7. This only gives tau >= 3. TOO WEAK.
+
+**(e) m = 7 inputs:**
+- d' >= n2 - 6 + beta_Y: flat star-balanced vectors are exact even 3-eigenvectors (C2 Lemma 9.1), then apply (a).
+- Each Dbl(c) is ∅, a C4, a bowtie, or K5.
+
+**(f) Missing information.** The flat-block master identity is (A_g[Y]-5)(A_g[Y]+2) + sum_e (r_e r_e^T + k_e k_e^T) = 0. The obstruction lives in its cherry entries: the placement of the doubling supports and transport signs inside W(c,c'). Scalars see only traces. Stopped there.
+
+**Duplication:**
+- (a), (b), (c) and the support form in (e): not found in C2.
+- Block identity: C2 §8.
+- Flat case: C2 Theorem D'.
+- The budget conclusion matches c2_experimental note 29 §2.

@@ -1,0 +1,4 @@
+(i)  dim star-balanced space: 14 | max |A b - b| on its basis: 4.440892098500626e-16
+(ii) spec A (rounded): [-4.0, 1.0, 10.0] | min |lambda+6| = 1.9999999999999991
+(iii) edge sets of size <= 3 with a nonzero star-balanced vector: 0 | 4-cycle 0-1-2-3 with signs +-+- balanced: True
+(iv) sizes of balanced ±1 signings inside K5: [4, 6, 10]

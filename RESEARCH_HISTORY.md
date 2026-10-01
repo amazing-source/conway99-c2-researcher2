@@ -5,7 +5,7 @@ Target (MODEL.md): EX := exists N in S such that L_N is nonempty. T4 used as a w
 
 The task packet (MODEL.md, TASK.md, AUDIT_STATUS.md, DUPLICATION_NOTES.md, CLAUDE.md, reference/, provenance/,
 code/, data/) is kept unchanged. All research output is under `work/`. The master indexes are:
-`work/RESULTS.md` (R1-R20), `work/FAILED_ATTEMPTS.md` (F1-F10), `work/FAILURE_MEMORY.md` (closed basins, rows 1-21),
+`work/RESULTS.md` (R1-R21), `work/FAILED_ATTEMPTS.md` (F1-F10), `work/FAILURE_MEMORY.md` (closed basins, rows 1-22),
 `work/CHECKPOINT.md` (dated checkpoints).
 
 ## Phase 1 — starting point, calibration, type-2 rigidity, unsigned search (2026-09-30)
@@ -71,6 +71,13 @@ code/, data/) is kept unchanged. All research output is under `work/`. The maste
   - the leakage capacity law, with BvLS extremal;
   - BvLS's coordinate-indexed odd eigenspace;
   - 7 | tau when K = 0.
+
+## Phase 11 — resource needed for the odd 3-eigenspace (2026-10-01)
+- Files: `work/twist/ODD_EIGENSPACE_RESOURCE.md`; check `work/twist/t04_kneser_facts.py`.
+- Exact multiplicities: d = 6 + d'_S and d' = 1 + d_S.
+- Twist slacks: sigma_- = tau - 7(d-6), sigma_+ = 105 - 7d' - tau, with sigma_- + sigma_+ = 7 rank K.
+- Leakage window: 2 rank K <= ||Z||^2 <= 14 sigma_- sigma_+/(sigma_- + sigma_+) (R21).
+- At d = 6 this is too weak (only tau >= 3). The missing datum is the cherry-level placement of the doubling supports.
 
 ## Reproducibility
 Python 3.12 + numpy; every check script states its exact question and resource bound in its header.

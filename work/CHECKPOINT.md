@@ -50,3 +50,9 @@ Atomic twist = cherry move. Interaction and closure laws were derived (twist/TWI
 Most of it is a rediscovery of the C2 dense-side analysis (§8, §14, §19, §24, §32). New: covering density 8/(m-3),
 the leakage capacity law (BvLS extremal), BvLS's coordinate-indexed odd eigenspace, and 7 | tau when K = 0.
 Neither target theorem was obtained. EX: OPEN.
+
+## Update 2026-10-01 (resource needed for the odd 3-eigenspace)
+Derived exact multiplicities d = 6 + d'_S and d' = 1 + d_S, the twist slacks, and the leakage window
+(twist/ODD_EIGENSPACE_RESOURCE.md, R21; check t04). Exact odd 3-eigenvectors cost twist, and leakage competes with
+them. At d = 6 the comparison with the capacity bound gives only tau >= 3, which is too weak. The missing datum is
+the placement of the doubling supports in the flat cherries' complementary 4-sets. Stopped as instructed. EX: OPEN.
