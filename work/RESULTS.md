@@ -289,3 +289,25 @@ Status: new representations; no compatibility law and no exclusion yet. Duplicat
 Odd sector A_- = [[-I, R^T],[R, -N]], even sector B_+ = [[0, 2*1^T, 0],[1, I, M^T],[0, M, Q]] (orbit coordinates).
 Given the separate systems, Lambda_3, Lambda_-4 free over Z[C2] <=> [[I, M^T],[M, Q]] = A_- (mod 2) <=> Q = N (mod 2).
 Explicit integral glue maps: 77E_3, 63E_-4 (even side) and A_- + 4, 3 - A_- (odd side). Implied by (C5). Structural.
+
+---------------------------------------------------------------------------------------------------
+## R20. Twist calculus at m = 7: atomic move, interaction, closure; leakage capacity law  [DERIVED + CHECKED t00, t02, t03] -> twist/TWIST_CALCULUS.md
+
+**Atomic twist.** The atomic twist is the cherry move: a single heavy 2-switch of D at an apex i. It is the smallest change of one coordinate pairing.
+- It never closes alone. It violates Law O at both outer coordinates (Law O: an open set never has exactly 2 labels; weak form of C2 Lemma 19.1).
+- Its unavoidable defects in a flat background are the port dislocation 2(e_j - e_j'), Lemma-G excess 2, and doubling demand 4. Law T: tau(c) = (Q^2)_(c+,c-), which is C2 Lemma 8.2.
+
+**Interaction law [CHECKED t00].** Two cherry moves with the same outer pair (the hinged quad) give K_{2,2}, a SECONDARY DEFECT (C2 19.1). The only Law-O/K22-closed 4-cell unit is the crossed quad (two disjoint squares). Skeleton laws are monotone covering conditions; there is no signed, cancellable twist defect.
+
+**Closure, as stated by C2 (not re-verified):**
+- heavy-only twist (anchored) is impossible (§24);
+- split-only twist (pure all-twisted) is impossible (§32);
+- only mixtures and disjoint squares remain open.
+
+**New (not found in the C2 notes read):**
+- (a) Covering density of a flat cell = 8/(m-3). It is 2 at m = 7 (rigid: flat cells never leak) and 1 at m = 11 (maximal leakage).
+- (b) Leakage capacity: ||Z||^2 <= 448 - 2 tau - (tau-56)^2/7 at m = 7 (= 0 at tau = 0). The m = 11 analogue gives 990 at tau = 0, and BvLS attains it [t02].
+- (c) BvLS's forced odd eigenspace, ker(Q_A - 4) of dimension 11, is coordinate-indexed: one ±1 vector on the 45 cells avoiding each coordinate [t03].
+- (d) If K = 0 (Q commutes with kappa), then 7 | tau.
+
+**Consequence for EX:** none. Flatness is impossible (zero twist forces zero leakage and a pinned Alt spectrum, which is R4). Twisting is impossible only in its pure forms. Mixed twist must supply >= 6 exact kappa-odd 3-eigenvectors; that is open.

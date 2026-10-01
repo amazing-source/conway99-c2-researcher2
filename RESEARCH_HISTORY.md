@@ -5,7 +5,7 @@ Target (MODEL.md): EX := exists N in S such that L_N is nonempty. T4 used as a w
 
 The task packet (MODEL.md, TASK.md, AUDIT_STATUS.md, DUPLICATION_NOTES.md, CLAUDE.md, reference/, provenance/,
 code/, data/) is kept unchanged. All research output is under `work/`. The master indexes are:
-`work/RESULTS.md` (R1-R18), `work/FAILED_ATTEMPTS.md` (F1-F10), `work/FAILURE_MEMORY.md` (closed basins, rows 1-19),
+`work/RESULTS.md` (R1-R20), `work/FAILED_ATTEMPTS.md` (F1-F10), `work/FAILURE_MEMORY.md` (closed basins, rows 1-21),
 `work/CHECKPOINT.md` (dated checkpoints).
 
 ## Phase 1 — starting point, calibration, type-2 rigidity, unsigned search (2026-09-30)
@@ -55,6 +55,22 @@ code/, data/) is kept unchanged. All research output is under `work/`. The maste
   1257 realizations at one twisted link (m02/m03); verified minimal pair differing in 3 relations (m04);
   Lemma P: the sign freedom of a row with fixed support is exactly a union of alternating closed trails.
   Refinement collapses to "unsigned layer + phases", i.e. the open sign-rigidity question.
+
+## Phase 9 — Z[C2]-freeness redundancy test (2026-10-01)
+- Files: `work/Z_C2_FREENESS_REDUNDANCY.md`, check c17.
+- Given the separate systems, freeness of the eigenlattices <=> Q = N (mod 2), which is the parity half of (C5).
+- No information beyond Theorem C (R19). Route stopped.
+
+## Phase 10 — twist programme at m = 7 (2026-10-01; all other routes frozen)
+- Files: `work/twist/TWIST_CALCULUS.md`; checks `work/twist/t00_minimal_closure.py`, `t02_bvls_leakage.py`, `t03_bvls_odd_eigenspace.py`.
+- Atomic twist = cherry move (one heavy 2-switch of D).
+- The minimal Law-O-closed units are the hinged quad (killed by K_{2,2}) and the crossed quad (= two disjoint squares).
+- The skeleton calculus largely rediscovers the C2 dense-side analysis (MATH_C2_PROGRAMME §8, §14, §19, §24, §32).
+- New (R20):
+  - covering density 8/(m-3), i.e. rigid flatness at m = 7;
+  - the leakage capacity law, with BvLS extremal;
+  - BvLS's coordinate-indexed odd eigenspace;
+  - 7 | tau when K = 0.
 
 ## Reproducibility
 Python 3.12 + numpy; every check script states its exact question and resource bound in its header.

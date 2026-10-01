@@ -1,0 +1,7 @@
+(1) D = kappa (all 55 cells flat): True
+(2) ordered disjoint cell pairs: 1980; permutation blocks 0; half-blocks 1980
+    zeta(e,c) distribution: {-1: 990, 1: 990}
+(3) identity Q_A^2 + Q_A + Z^T Z/2 = 20 I: True
+    ||Z||^2 = 990.000;  tr Q_A = -110.0
+    spectrum of Q_A in [-3.5000, 4.0000] (must lie in [-5, 4])
+(4) mult of eigenvalue 4 in Q_A: 11 (lower bound 11); mult of -5: 0

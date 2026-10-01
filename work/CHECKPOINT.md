@@ -44,3 +44,9 @@ collapses to "unsigned layer + phases" = the known sign-rigidity question. B doe
 ## Update 2026-10-01 (Z[C2]-freeness redundancy test)
 Freeness of Lambda_3, Lambda_-4 is equivalent, given the separate systems, to Q = N (mod 2) (R19), the parity half of
 (C5); checked on BvLS with a relaxed counterexample (c17). No new information; route stopped. EX: OPEN.
+
+## Update 2026-10-01 (twist programme, all other routes frozen)
+Atomic twist = cherry move. Interaction and closure laws were derived (twist/TWIST_CALCULUS.md, checks t00/t02/t03).
+Most of it is a rediscovery of the C2 dense-side analysis (§8, §14, §19, §24, §32). New: covering density 8/(m-3),
+the leakage capacity law (BvLS extremal), BvLS's coordinate-indexed odd eigenspace, and 7 | tau when K = 0.
+Neither target theorem was obtained. EX: OPEN.
